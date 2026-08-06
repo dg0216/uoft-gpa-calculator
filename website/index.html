@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Calculate your University of Toronto GPA quickly and accurately.">
+    <title>UofT GPA Calculator</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>UofT GPA Calculator</h1>
+        <p>Calculate your University of Toronto GPA based on your courses, grades, and credit weights.</p>
+        <p>This tool helps students calculate their semester GPA using the UofT 4.0 grading scale.</p>
+    </header>
+
+    <main>
+        <!-- GPA Input Section -->
+        <section aria-labelledby="course-input-heading">
+            <h2 id="course-input-heading">Add a Course</h2>
+
+            <div>
+                <label for="academicYear">Academic Year</label>
+                <select id="academicYear" name="academicYear">
+                    <option value="" selected disabled>Select an academic year</option>
+                    <option value="1st Year">1st Year</option>
+                    <option value="2nd Year">2nd Year</option>
+                    <option value="3rd Year">3rd Year</option>
+                    <option value="4th Year">4th Year</option>
+                    <option value="Other">Other</option>
+                </select>
+            </div>
+
+            <div class="course-search-container">
+                <label for="courseName">Course Name</label>
+                <input
+                    type="text"
+                    id="courseName"
+                    name="courseName"
+                    placeholder="Example: MAT137"
+                >
+            </div>
+
+            <div class="grade-input-container">
+                <label for="grade">Final Grade (%)</label>
+                <input
+                    type="number"
+                    id="grade"
+                    name="grade"
+                    placeholder="Enter grade (%)"
+                    min="0"
+                    max="100"
+                    step="0.1"
+                    inputmode="decimal"
+                >
+                <p id="gradePreview" class="grade-preview" aria-live="polite"></p>
+            </div>
+
+            <div>
+                <button type="button" id="addCourseButton">Add Course</button>
+                <button type="button" id="calculateGPAButton">Calculate GPA</button>
+            </div>
+
+            <p id="errorMessage" role="alert" aria-live="polite"></p>
+        </section>
+
+        <!-- Course Table Section -->
+        <div id="courseListSection" class="course-list-container">
+            <section aria-labelledby="course-list-heading">
+                <h2 id="course-list-heading">Courses by Academic Year</h2>
+
+                <table id="courseTable">
+                    <thead>
+                        <tr>
+                            <th scope="col">Course</th>
+                            <th scope="col">Title</th>
+                            <th scope="col">Grade</th>
+                            <th scope="col">Credits</th>
+                            <th scope="col">GPA Value</th>
+                            <th scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="courseTableBody">
+                        <!-- Course rows are added by JavaScript. -->
+                    </tbody>
+                </table>
+            </section>
+        </div>
+
+        <!-- GPA Result Section -->
+        <div id="gpaSummary" class="hidden">
+            <section aria-labelledby="gpa-heading">
+                <h2 id="gpa-heading">GPA Summary</h2>
+                <div id="yearGpaSummary" aria-live="polite"></div>
+                <h3>Cumulative GPA</h3>
+                <p id="gpaResult" aria-live="polite">0.00</p>
+            </section>
+        </div>
+
+        <div class="gpa-action">
+            <button type="button" id="toggleCoursesButton" class="hidden">Hide Courses</button>
+        </div>
+
+        <div class="reset-action">
+            <button type="button" id="resetButton">Reset Calculator</button>
+        </div>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Built as a student project to help UofT students calculate GPA.</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

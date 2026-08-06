@@ -1,0 +1,6987 @@
+[
+    {
+        "code": "ACMC01H3",
+        "title": "ACMEE Applied Practice I",
+        "credits": 0.5
+    },
+    {
+        "code": "ACMD01H3",
+        "title": "ACMEE Applied Practice II",
+        "credits": 0.5
+    },
+    {
+        "code": "ACMD02H3",
+        "title": "ACMEE Applied Practice III",
+        "credits": 0.5
+    },
+    {
+        "code": "ACMD98H3",
+        "title": "Experiential Learning for Arts, Culture and Media Programs",
+        "credits": 0.5
+    },
+    {
+        "code": "ACT240H1",
+        "title": "Mathematics of Investment & Credit",
+        "credits": 0.5
+    },
+    {
+        "code": "ACT348H1",
+        "title": "Life Contingencies II",
+        "credits": 0.5
+    },
+    {
+        "code": "ACT370H1",
+        "title": "Financial Principles for Actuarial Science II",
+        "credits": 0.5
+    },
+    {
+        "code": "ACT391H1",
+        "title": "Professional Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "AFR280Y1",
+        "title": "Introductory Swahili",
+        "credits": 1.0
+    },
+    {
+        "code": "AFR290H1",
+        "title": "The Idea of Africa",
+        "credits": 0.5
+    },
+    {
+        "code": "AFR391H1",
+        "title": "African Studies Independent Study Course",
+        "credits": 0.5
+    },
+    {
+        "code": "ANA498Y1",
+        "title": "Project in Anatomy",
+        "credits": 1.0
+    },
+    {
+        "code": "ANT100Y1",
+        "title": "Introduction to Anthropology",
+        "credits": 1.0
+    },
+    {
+        "code": "ANT101H5",
+        "title": "Introduction to Biological Anthropology and Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT102H5",
+        "title": "Introduction to Sociocultural and Linguistic Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT200H5",
+        "title": "Introduction to the Practice of Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT201H5",
+        "title": "World Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT202H5",
+        "title": "Biological Anthropology: Human Variation and Adaptation",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT203H5",
+        "title": "Biological Anthropology: Primatology and palaeoanthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT204H1",
+        "title": "Social Cultural Anthropology and Global Issues",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT204H5",
+        "title": "Sociocultural Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT208H1",
+        "title": "Medical Anthropology: an Evolutionary Perspective on Human Health",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT214H5",
+        "title": "Anthropology of Food and Nutrition",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT253H1",
+        "title": "Language & Society",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT331H5",
+        "title": "The Biology of Human Sexuality",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT343H1",
+        "title": "Social Anthropology of Gender",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT348H1",
+        "title": "Medical Anthropology: Health, Power and Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT370H5",
+        "title": "Environment, Culture and Film",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT390H1",
+        "title": "Special Topics in Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT396Y0",
+        "title": "Special Topics in Anthropology",
+        "credits": 1.0
+    },
+    {
+        "code": "ANT398H0",
+        "title": "Research Excursions",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT398Y0",
+        "title": "Research Excursions",
+        "credits": 1.0
+    },
+    {
+        "code": "ANT402H5",
+        "title": "Wild Nights: Sleep, evolution, and performance in the 21st century",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT406H1",
+        "title": "Lithic Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT432H5",
+        "title": "Advanced Seminar in Biological Anthropology and Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT437H5",
+        "title": "Advanced Seminar in the Anthropology of Health",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT465H1",
+        "title": "Ethnographic Practicum: Toronto Tours",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT497Y1",
+        "title": "Independent Research",
+        "credits": 1.0
+    },
+    {
+        "code": "ANT498H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "ANT499H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTA01H3",
+        "title": "Introduction to Anthropology: Becoming Human",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTA02H3",
+        "title": "Introduction to Anthropology: Society, Culture and Language",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTB02H3",
+        "title": "The Body in Culture and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTB09H3",
+        "title": "Culture through Film and Media",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTB14H3",
+        "title": "Evolutionary Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTC03H3",
+        "title": "Directed Reading in Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTC04H3",
+        "title": "Directed Reading in Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTC24H3",
+        "title": "Culture, Mental Illness, and Psychiatry",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTC90H3",
+        "title": "Cultural Heritage in Action",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTD31H3",
+        "title": "Advanced Research in Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "ANTD32H3",
+        "title": "Advanced Research in Anthropology",
+        "credits": 0.5
+    },
+    {
+        "code": "APM346H1",
+        "title": "Partial Differential Equations",
+        "credits": 0.5
+    },
+    {
+        "code": "APM462H1",
+        "title": "Nonlinear Optimization",
+        "credits": 0.5
+    },
+    {
+        "code": "APS105H1",
+        "title": "Computer Fundamentals",
+        "credits": 0.5
+    },
+    {
+        "code": "APS106H1",
+        "title": "Fundamentals of Computer Programming",
+        "credits": 0.5
+    },
+    {
+        "code": "APS112H1",
+        "title": "Engineering Strategies & Practice II",
+        "credits": 0.5
+    },
+    {
+        "code": "APS162H1",
+        "title": "Calculus for Engineers I",
+        "credits": 0.5
+    },
+    {
+        "code": "APS164H1",
+        "title": "Introductory Chemistry from a Materials Perspective",
+        "credits": 0.5
+    },
+    {
+        "code": "APS299Y0",
+        "title": "Summer Research Abroad",
+        "credits": 1.0
+    },
+    {
+        "code": "APS360H1",
+        "title": "Applied Fundamentals of Deep Learning",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC200H1",
+        "title": "Drawing and Representation II",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC201H1",
+        "title": "Design Studio II: How to design almost nothing",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC300H0",
+        "title": "Studies Abroad",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC395H1",
+        "title": "Design Build",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC397H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "ARC495Y1",
+        "title": "Design Research Internship",
+        "credits": 1.0
+    },
+    {
+        "code": "ARH306Y0",
+        "title": "Archaeological Field Methods",
+        "credits": 1.0
+    },
+    {
+        "code": "ARH306Y1",
+        "title": "Archaeological Field Methods",
+        "credits": 1.0
+    },
+    {
+        "code": "ARH361H0",
+        "title": "Field Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ARH361H1",
+        "title": "Field Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "ARH361Y0",
+        "title": "Field Archaeology",
+        "credits": 1.0
+    },
+    {
+        "code": "ARH361Y1",
+        "title": "Field Archaeology",
+        "credits": 1.0
+    },
+    {
+        "code": "ARH495H1",
+        "title": "Archaeology Research Practicum",
+        "credits": 0.5
+    },
+    {
+        "code": "AST101H1",
+        "title": "The Sun and Its Neighbours",
+        "credits": 0.5
+    },
+    {
+        "code": "AST101H5",
+        "title": "Exploring the Solar System",
+        "credits": 0.5
+    },
+    {
+        "code": "AST201H1",
+        "title": "Stars and Galaxies",
+        "credits": 0.5
+    },
+    {
+        "code": "AST201H5",
+        "title": "Exploring the Universe",
+        "credits": 0.5
+    },
+    {
+        "code": "AST251H1",
+        "title": "Life on Other Worlds",
+        "credits": 0.5
+    },
+    {
+        "code": "AST252H5",
+        "title": "Life in the Universe",
+        "credits": 0.5
+    },
+    {
+        "code": "AST299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "AST399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "AST399Y5",
+        "title": "Research Opportunity Program (SCI)",
+        "credits": 1.0
+    },
+    {
+        "code": "AST430H1",
+        "title": "Supervised Study in Astronomy & Astrophysics",
+        "credits": 0.5
+    },
+    {
+        "code": "AST431Y1",
+        "title": "Supervised Study in Astronomy & Astrophysics",
+        "credits": 1.0
+    },
+    {
+        "code": "BCB330Y1",
+        "title": "Special Project in Bioinformatics and Computational Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "BCB430Y1",
+        "title": "Advanced Special Project in Bioinformatics and Computational Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "BCH210H1",
+        "title": "Biochemistry I: Proteins, Lipids and Metabolism",
+        "credits": 0.5
+    },
+    {
+        "code": "BCH299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "BCH372Y1",
+        "title": "Summer Research in Biochemistry",
+        "credits": 1.0
+    },
+    {
+        "code": "BCH399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "BCH472Y1",
+        "title": "Advanced Summer Research Project in Biochemistry",
+        "credits": 1.0
+    },
+    {
+        "code": "BIO120H1",
+        "title": "Adaptation and Biodiversity",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO130H1",
+        "title": "Molecular and Cell Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO152H5",
+        "title": "Introduction to Evolution and Evolutionary Genetics",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO153H5",
+        "title": "Diversity of Organisms",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO202H5",
+        "title": "Introductory Animal Physiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO203H5",
+        "title": "Introductory Plant Morphology and Physiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO205H5",
+        "title": "Ecology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO206H5",
+        "title": "Introductory Cell and Molecular Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO207H5",
+        "title": "Introductory Genetics",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO208H5",
+        "title": "Biomechanics of Human Movement",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO209H5",
+        "title": "Foundations of Human Physiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO230H1",
+        "title": "From Genes to Organisms",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO259H5",
+        "title": "Introduction to Biological Data",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO299Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "BIO304H5",
+        "title": "Molecular Physiology of Excitable Cells",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO310H5",
+        "title": "Physiology of Regulatory Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO325H5",
+        "title": "Biomechanics",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO326H5",
+        "title": "Ornithology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO360H5",
+        "title": "Biometrics I",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO372H5",
+        "title": "Molecular Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO374H5",
+        "title": "Modern Biotechnology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO375H5",
+        "title": "Medical Biotechnology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "BIO406H5",
+        "title": "Current Topics in Ecology and Evolution",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO407H5",
+        "title": "Behaviour Genetics",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO416H5",
+        "title": "Field Course in Ecology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO444H5",
+        "title": "Urban Field Ecology and Evolution",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO477H5",
+        "title": "The Human Genome and Cancer Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIO481Y5",
+        "title": "Biology Research Project",
+        "credits": 1.0
+    },
+    {
+        "code": "BIOA01H3",
+        "title": "Life on Earth: Unifying Principles",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOA02H3",
+        "title": "Life on Earth: Form, Function and Interactions",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOA12H3",
+        "title": "General Biology: Concepts and Processes of Biological Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB10H3",
+        "title": "Cell Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB11H3",
+        "title": "Molecular Aspects of Cellular and Genetic Processes",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB12H3",
+        "title": "Cell and Molecular Biology Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB32H3",
+        "title": "Animal Physiology Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB33H3",
+        "title": "Human Development and Anatomy",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB34H3",
+        "title": "Animal Physiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB50H3",
+        "title": "Ecology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB51H3",
+        "title": "Evolutionary Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB52H3",
+        "title": "Ecology and Evolutionary Biology Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB98H3",
+        "title": "Supervised Introductory Research in Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOB99H3",
+        "title": "Supervised Introductory Research in Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC12H3",
+        "title": "Biochemistry I: Proteins & Enzymes",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC13H3",
+        "title": "Biochemistry II: Bioenergetics and Metabolism",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC15H3",
+        "title": "Genetics",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC17H3",
+        "title": "Microbiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC20H3",
+        "title": "Principles of Virology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC23H3",
+        "title": "Practical Approaches to Biochemistry",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC32H3",
+        "title": "Human Physiology I",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC34H3",
+        "title": "Human Physiology II",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC39H3",
+        "title": "Immunology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOC99H3",
+        "title": "Biology Team Research",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD20H3",
+        "title": "Special Topics in Virology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD21H3",
+        "title": "Advanced Molecular Biology Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD32H3",
+        "title": "Human Respiratory Pathophysiology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD65H3",
+        "title": "Pathologies of the Nervous System",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD67H3",
+        "title": "Inter-University Biology Field Course",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD95H3",
+        "title": "Supervised Study in Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "BIOD98Y3",
+        "title": "Directed Research in Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "BIOD99Y3",
+        "title": "Directed Research in Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "BMS100H1",
+        "title": "Introduction to Book & Media Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS201H1",
+        "title": "Information Literacy, Writing, and Research for Book & Media Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS302H1",
+        "title": "Special Topics in Book & Media Histories",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS316H1",
+        "title": "Social Media & Digital Platforms",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS386H1",
+        "title": "Book and Media Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS402H1",
+        "title": "Advanced Topics in Book & Media Histories",
+        "credits": 0.5
+    },
+    {
+        "code": "BMS494H1",
+        "title": "Independent Study in Book and Media Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "BPM332H1",
+        "title": "Buddhism and Psychotherapy",
+        "credits": 0.5
+    },
+    {
+        "code": "BPM338H1",
+        "title": "Exploring Mindful Awareness",
+        "credits": 0.5
+    },
+    {
+        "code": "CAR391H1",
+        "title": "Caribbean Studies Independent Study Course",
+        "credits": 0.5
+    },
+    {
+        "code": "CAR491H1",
+        "title": "Caribbean Studies Independent Study Course",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT109H5",
+        "title": "Contemporary Communication Technologies",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT110H5",
+        "title": "Rhetoric and Media",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT111H5",
+        "title": "Critical Coding",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT112H5",
+        "title": "Foundations of Management",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT205H5",
+        "title": "Digital Innovation and Cultural Transformation",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT208H5",
+        "title": "Communications Research Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT210H5",
+        "title": "Signs, Referents, and Meaning",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT218H5",
+        "title": "Foundations of Media and Technology Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT226H5",
+        "title": "Data Analysis I",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT260H5",
+        "title": "Web Development and Design I",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT270H5",
+        "title": "Principles in Game Design",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT285H5",
+        "title": "Immersive Environment Design",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT300H5",
+        "title": "Critical Analysis of Media",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT306H5",
+        "title": "Interpersonal Communication",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT307H5",
+        "title": "Critical Infrastructure Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT310H5",
+        "title": "Popular Culture and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT311H5",
+        "title": "Game Design and Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT316H5",
+        "title": "Communication and Advertising",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT328H5",
+        "title": "Project Management",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT334H5",
+        "title": "History and Theory of Game Production",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT341H5",
+        "title": "Introduction to IT Consulting",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT380H5",
+        "title": "Human-Computer Interaction and Communication",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT386H5",
+        "title": "Information Practice in Virtual Worlds: Exploration of Information Environments",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT405H5",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT410H5",
+        "title": "CCIT Internship I",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT416H5",
+        "title": "Social Data Analytics",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT417H5",
+        "title": "Alternative Media",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT431H5",
+        "title": "Drones, Robots, Artificial Intelligence",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT460H5",
+        "title": "Advanced Web Design",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT477H5",
+        "title": "UX Design - Understanding Users",
+        "credits": 0.5
+    },
+    {
+        "code": "CCT481H5",
+        "title": "Augmented Places and Social Media Spaces",
+        "credits": 0.5
+    },
+    {
+        "code": "CDN221H1",
+        "title": "Culture and the Media in Canada",
+        "credits": 0.5
+    },
+    {
+        "code": "CDN335H1",
+        "title": "Black Canadian Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CDPD00H3",
+        "title": "Combined Degree Program Graduate Crs 1",
+        "credits": 0.5
+    },
+    {
+        "code": "CDPD01H3",
+        "title": "Combined Degree Program Graduate Crs 2",
+        "credits": 0.5
+    },
+    {
+        "code": "CHC390Y1",
+        "title": "Independent Studies in Christianity and Culture",
+        "credits": 1.0
+    },
+    {
+        "code": "CHC391H1",
+        "title": "Independent Studies in Christianity and Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "CHC471H1",
+        "title": "Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "CHE112H1",
+        "title": "Physical Chemistry in Engineering Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "CHI211H5",
+        "title": "Chinese for Academic Purposes I",
+        "credits": 0.5
+    },
+    {
+        "code": "CHI212H5",
+        "title": "Chinese for Academic Purposes II",
+        "credits": 0.5
+    },
+    {
+        "code": "CHI311H5",
+        "title": "Classical Chinese Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "CHI409H5",
+        "title": "Influence of Confucianism on Chinese Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM120H5",
+        "title": "Chemical Principles 2",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM135H1",
+        "title": "Chemistry: Physical Principles",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM136H1",
+        "title": "Introductory Organic Chemistry I",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM210H1",
+        "title": "Chemistry of Environmental Change",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM217H1",
+        "title": "Introduction to Analytical Chemistry",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM220H1",
+        "title": "Physical Chemistry for Life Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM236H1",
+        "title": "Introductory Inorganic Chemistry I",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM237H1",
+        "title": "Introductory Inorganic Chemistry II",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM243H5",
+        "title": "Introductory Organic Chemistry II",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM247H1",
+        "title": "Introductory Organic Chemistry II",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CHM299Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CHM361H5",
+        "title": "Structural Biochemistry",
+        "credits": 0.5
+    },
+    {
+        "code": "CHM395Y1",
+        "title": "Research Project in Chemistry",
+        "credits": 1.0
+    },
+    {
+        "code": "CHM399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CHM399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CHM485H5",
+        "title": "Dissertation Based on Literature Research",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMA11H3",
+        "title": "Introductory Chemistry II: Reactions and Mechanisms",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMB16H3",
+        "title": "Techniques in Analytical Chemistry",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMB42H3",
+        "title": "Organic Chemistry II",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMC11H3",
+        "title": "Principles of Analytical Instrumentation",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMC47H3",
+        "title": "Bio-Organic Chemistry",
+        "credits": 0.5
+    },
+    {
+        "code": "CHMD90Y3",
+        "title": "Directed Research",
+        "credits": 1.0
+    },
+    {
+        "code": "CHMD91H3",
+        "title": "Directed Research",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN220H1",
+        "title": "Special Topics in Cinematic Genres and Modes",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN240H1",
+        "title": "Special Topics in Cinema Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN260H1",
+        "title": "Selected Topics in Cinema Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN290H5",
+        "title": "Topics in Cinema Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN301H5",
+        "title": "Topics in Cinema Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN321H1",
+        "title": "Special Topics in Genre and Modes II",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN340H1",
+        "title": "Special Topics in Cinema as Social and Cultural Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN360H1",
+        "title": "Special Topics in Theory and Criticism",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN378Y0",
+        "title": "Aspects of National Cinema",
+        "credits": 1.0
+    },
+    {
+        "code": "CIN490Y1",
+        "title": "Independent Studies in Cinema",
+        "credits": 1.0
+    },
+    {
+        "code": "CIN491H1",
+        "title": "Independent Studies in Cinema",
+        "credits": 0.5
+    },
+    {
+        "code": "CIN492H1",
+        "title": "Independent Studies in Cinema",
+        "credits": 0.5
+    },
+    {
+        "code": "CITA01H3",
+        "title": "Foundations of City Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CITC17H3",
+        "title": "Civic Engagement in Urban Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "CITC18H3",
+        "title": "Urban Transportation Policy Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "CITD30H3",
+        "title": "Supervised Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CIW300H5",
+        "title": "Co-op Internship Work Experience",
+        "credits": 0.5
+    },
+    {
+        "code": "CJH332H1",
+        "title": "Cellular and Molecular Neurobiology of the Synapse",
+        "credits": 0.5
+    },
+    {
+        "code": "CJS340H1",
+        "title": "Mizrahim in Israel: History, Politics, and Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "CJS383H1",
+        "title": "Jews and Power",
+        "credits": 0.5
+    },
+    {
+        "code": "CJS390H1",
+        "title": "Special Topics in Jewish Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CJS396H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "CJS498Y1",
+        "title": "Independent Study",
+        "credits": 1.0
+    },
+    {
+        "code": "CJS499H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA160H1",
+        "title": "Introduction to Classical Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA201H1",
+        "title": "Latin & Greek in Scientific Terminology",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA201H5",
+        "title": "Latin and Greek in Scientific Terminology",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA204H1",
+        "title": "Introduction to Classical Mythology",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA204H5",
+        "title": "Introduction to Classical Mythology",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA234H5",
+        "title": "Ancient Science and Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA387H1",
+        "title": "Spectacle in the Roman World",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA400H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CLA499H5",
+        "title": "Independent Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "CLAA05H3",
+        "title": "Ancient Mythology I: Mesopotamia and Egypt",
+        "credits": 0.5
+    },
+    {
+        "code": "CLT396H1",
+        "title": "Independent Study in Celtic Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "COG250Y1",
+        "title": "Introduction to Cognitive Science",
+        "credits": 1.0
+    },
+    {
+        "code": "COG497Y1",
+        "title": "COG Independent Study",
+        "credits": 1.0
+    },
+    {
+        "code": "COG498H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "COG499H1",
+        "title": "Individual Study in Cognitive Science",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB10Y3",
+        "title": "Advancing Your Career Exploration",
+        "credits": 1.0
+    },
+    {
+        "code": "COPB50H3",
+        "title": "Foundations for Success in Art and Science Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB53H3",
+        "title": "Continuing your Co-op Job Search",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB54H3",
+        "title": "Becoming Job Search Ready: Science Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB55H3",
+        "title": "Finding Your First Work Term and Getting Workplace Ready: Science Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB56H3",
+        "title": "Becoming Job Search Ready: CMS Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB57H3",
+        "title": "Finding Your First Work Term and Getting Workplace Ready: CMS Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB58H3",
+        "title": "Becoming Job Search Ready: Arts Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPB59H3",
+        "title": "Finding Your First Work Term and Getting Workplace Ready: Arts Co-op",
+        "credits": 0.5
+    },
+    {
+        "code": "COPC02H3",
+        "title": "Arts and Science Co-op Work Term 2",
+        "credits": 0.5
+    },
+    {
+        "code": "COPC04H3",
+        "title": "Additional Arts and Science Co-op Work Term 4",
+        "credits": 0.5
+    },
+    {
+        "code": "COPC98H3",
+        "title": "Integrating Your Work Term Experience Part I",
+        "credits": 0.5
+    },
+    {
+        "code": "COPC99H3",
+        "title": "Integrating Your Work Term Experience II",
+        "credits": 0.5
+    },
+    {
+        "code": "CPS489Y5",
+        "title": "Introduction to Research in the Chemical and Physical Sciences",
+        "credits": 1.0
+    },
+    {
+        "code": "CRI205H1",
+        "title": "Introduction to Criminology",
+        "credits": 0.5
+    },
+    {
+        "code": "CRI210H1",
+        "title": "Criminal Justice",
+        "credits": 0.5
+    },
+    {
+        "code": "CRI225H1",
+        "title": "Criminal Law",
+        "credits": 0.5
+    },
+    {
+        "code": "CRI389Y0",
+        "title": "Topics in Criminology and Sociolegal Studies Abroad",
+        "credits": 1.0
+    },
+    {
+        "code": "CRI396H1",
+        "title": "Research Participation",
+        "credits": 0.5
+    },
+    {
+        "code": "CSB299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSB329H1",
+        "title": "Stem Cell Biology: Developmental Models and Cell- based Therapeutics",
+        "credits": 0.5
+    },
+    {
+        "code": "CSB346H1",
+        "title": "Neurobiology of Respiration",
+        "credits": 0.5
+    },
+    {
+        "code": "CSB352H1",
+        "title": "Bioinformatic Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "CSB397Y0",
+        "title": "Research Abroad in Cell & Systems Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "CSB399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSB497H1",
+        "title": "Independent Research in Cell and Systems Biology I",
+        "credits": 0.5
+    },
+    {
+        "code": "CSB498Y1",
+        "title": "Independent Research in Cell and Systems Biology I",
+        "credits": 1.0
+    },
+    {
+        "code": "CSB499Y1",
+        "title": "Independent Research in Cell and Systems Biology II",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC108H1",
+        "title": "Introduction to Computer Programming",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC148H5",
+        "title": "Introduction to Computer Science",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC207H1",
+        "title": "Software Design",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC236H1",
+        "title": "Introduction to the Theory of Computation",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC263H5",
+        "title": "Data Structures and Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC299Y1",
+        "title": "Rsch Opportunity Prg",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC299Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC311H1",
+        "title": "Introduction to Machine Learning",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC311H5",
+        "title": "Introduction to Machine Learning",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC343H5",
+        "title": "Introduction to Databases",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC384H1",
+        "title": "Introduction to Artificial Intelligence",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC392H5",
+        "title": "Computer Science Implementation Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC393H5",
+        "title": "Computer Science Expository Work",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC396Y0",
+        "title": "Designing Systems for Real World Problems",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSC454H1",
+        "title": "The Business of Software",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC491H1",
+        "title": "Capstone Design Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC492H5",
+        "title": "Computer Science Implementation Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC493H5",
+        "title": "Computer Science Expository Work",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC494H1",
+        "title": "Computer Science Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC495H1",
+        "title": "Computer Science Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSC499Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "CSCA48H3",
+        "title": "Introduction to Computer Science II",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCB07H3",
+        "title": "Software Design",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCB09H3",
+        "title": "Software Tools and Systems Programming",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCB36H3",
+        "title": "Introduction to the Theory of Computation",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCB58H3",
+        "title": "Computer Organization",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCB63H3",
+        "title": "Design and Analysis of Data Structures",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC01H3",
+        "title": "Introduction to Software Engineering",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC09H3",
+        "title": "Programming on the Web",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC10H3",
+        "title": "Human-Computer Interaction",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC24H3",
+        "title": "Principles of Programming Languages",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC43H3",
+        "title": "Introduction to Databases",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC63H3",
+        "title": "Computability and Computational Complexity",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCC69H3",
+        "title": "Operating Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCD03H3",
+        "title": "Social Impact of Information Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCD92H3",
+        "title": "Readings in Computer Science",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCD94H3",
+        "title": "Computer Science Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSCD95H3",
+        "title": "Computer Science Project",
+        "credits": 0.5
+    },
+    {
+        "code": "CSE240H1",
+        "title": "Introduction to Critical Equity and Solidarity Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CSE345H1",
+        "title": "Equity and Activism in Education",
+        "credits": 0.5
+    },
+    {
+        "code": "CSE439H1",
+        "title": "Advanced Topics in Equity and Solidarity Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CSE441H1",
+        "title": "Advanced Topics in Equity Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "CSE444H1",
+        "title": "Anti-Colonization and the Politics of Violence",
+        "credits": 0.5
+    },
+    {
+        "code": "CTA200H1",
+        "title": "Computational Astrophysics",
+        "credits": 0.5
+    },
+    {
+        "code": "DHU235H1",
+        "title": "Introduction to Digital Humanities",
+        "credits": 0.5
+    },
+    {
+        "code": "DHU339Y0",
+        "title": "Special Topics in Digital Humanities",
+        "credits": 1.0
+    },
+    {
+        "code": "DRE201H5",
+        "title": "Acting",
+        "credits": 0.5
+    },
+    {
+        "code": "DRE463H5",
+        "title": "Senior Seminar III",
+        "credits": 0.5
+    },
+    {
+        "code": "DRM288H1",
+        "title": "Introduction to Communication",
+        "credits": 0.5
+    },
+    {
+        "code": "DRM386H1",
+        "title": "Special Topics in Drama, Theatre and Performance Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "DTS305H1",
+        "title": "Special Topics in Diaspora and Transnational Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "DTS390H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "DTS390Y1",
+        "title": "Independent Study",
+        "credits": 1.0
+    },
+    {
+        "code": "DTS398H0",
+        "title": "Research Excursions",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS110Y1",
+        "title": "Modern Standard Korean I",
+        "credits": 1.0
+    },
+    {
+        "code": "EAS219H1",
+        "title": "Cultural History of Food in East Asia",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS256H1",
+        "title": "Chinese Literature (Pre-Qin to Tang)",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS257H1",
+        "title": "Chinese Literature (Song to Qing)",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS274H1",
+        "title": "Popular Culture in East Asia",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS296H1",
+        "title": "Topics in East Asian Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS340H1",
+        "title": "Chinese Society and Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS357H1",
+        "title": "Mao's China and Beyond",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS395Y0",
+        "title": "Topics in East Asian Studies (Summer Abroad)",
+        "credits": 1.0
+    },
+    {
+        "code": "EAS396H1",
+        "title": "Special Topics in East Asian Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS434H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "EAS436Y1",
+        "title": "Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "EAS496H1",
+        "title": "Advanced Topics in East Asian Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "ECE110H1",
+        "title": "Electrical Fundamentals",
+        "credits": 0.5
+    },
+    {
+        "code": "ECE472H1",
+        "title": "Engineering Economic Analysis & Entrepreneurship",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO101H1",
+        "title": "Principles of Microeconomics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO101H5",
+        "title": "Principles of Microeconomics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO102H1",
+        "title": "Principles of Macroeconomics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO102H5",
+        "title": "Principles of Macroeconomics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO200Y1",
+        "title": "Microeconomic Theory",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO200Y5",
+        "title": "Microeconomic Theory",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO202Y1",
+        "title": "Macroeconomic Theory and Policy",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO202Y5",
+        "title": "Macroeconomic Theory and Policy",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO206Y1",
+        "title": "Microeconomic Theory",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO208Y1",
+        "title": "Macroeconomic Theory",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO220Y1",
+        "title": "Introduction to Data Analysis and Applied Econometrics",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO220Y5",
+        "title": "Introduction to Data Analysis and Applied Econometrics",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO295H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "ECO311H5",
+        "title": "Pricing Strategies",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO313H1",
+        "title": "Environmental Economics and Policies",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO314H1",
+        "title": "Energy and the Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO316H1",
+        "title": "Applied Game Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO320H1",
+        "title": "Economic Analysis of Law",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO320H5",
+        "title": "Economic Analysis of Law: Part 1",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO333H1",
+        "title": "Urban Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO349H1",
+        "title": "Money, Banking and Financial Markets",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO349H5",
+        "title": "Money, Banking & Financial Markets",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO358H1",
+        "title": "Financial Economics I",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO359H1",
+        "title": "Financial Economics II: Corporate Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO364H1",
+        "title": "International Trade Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO364H5",
+        "title": "International Trade",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO365H1",
+        "title": "International Monetary Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO365H5",
+        "title": "International Monetary Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO370H5",
+        "title": "The Economics of Organizations",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO372H1",
+        "title": "Data Analysis and Applied Econometrics in Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO374H1",
+        "title": "Forecasting and Time Series Econometrics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO375H1",
+        "title": "Applied Econometrics I",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO380H1",
+        "title": "Markets, Competition, and Strategy",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO414H1",
+        "title": "Energy and Regulation",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO421H1",
+        "title": "Special Topics in Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO422H1",
+        "title": "Special Topics in Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "ECO428H1",
+        "title": "Classical Economic Thought",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTB58H3",
+        "title": "Foundations of Translation",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTB60H3",
+        "title": "Agri-Food, Cultures, and Translation",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTB61H3",
+        "title": "English and Chinese Translation: Theory and Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTC61H3",
+        "title": "Translation Studies in Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTC62H3",
+        "title": "Translation in Media",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTC63H3",
+        "title": "Translation and the Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTD66H3",
+        "title": "Translation and Adaptation",
+        "credits": 0.5
+    },
+    {
+        "code": "ECTD68H3",
+        "title": "Translation for Business",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS100H5",
+        "title": "Introduction to Education Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS101H5",
+        "title": "Health and Education",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS250H5",
+        "title": "Indigenous Education",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS285H5",
+        "title": "The Future of Ed Tech: Active Learning Classrooms and Artificial Intelligence",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS345H5",
+        "title": "Design Thinking Incubator: From Problem into Prototype",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS360H0",
+        "title": "Education Internship - International",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS360H1",
+        "title": "Education Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "EDS360Y0",
+        "title": "Education Internship - International",
+        "credits": 1.0
+    },
+    {
+        "code": "EDS360Y1",
+        "title": "Education Internship",
+        "credits": 1.0
+    },
+    {
+        "code": "EDS388H5",
+        "title": "Experiential Learning Opportunity within the Community",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "EEB397Y1",
+        "title": "Research Project in Ecology and Evolutionary Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "EEB398Y0",
+        "title": "Research Excursions",
+        "credits": 1.0
+    },
+    {
+        "code": "EEB399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "EEB403H0",
+        "title": "Tropical Field Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB403H1",
+        "title": "Tropical Field Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB405H0",
+        "title": "Temperate Field Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB405H1",
+        "title": "Temperate Field Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB406H0",
+        "title": "Inter-University Field Course",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB406H1",
+        "title": "Inter-University Field Course",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB491H1",
+        "title": "Seminar in Biodiversity and Conservation Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB495H1",
+        "title": "Seminar in Ecology and Evolutionary Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB497H1",
+        "title": "Research Studies in Ecology & Evolutionary Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "EEB498Y1",
+        "title": "Advanced Research Project in Ecology and Evolutionary Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "EEB499Y1",
+        "title": "Advanced Research Project in Ecology and Evolutionary Biology II",
+        "credits": 1.0
+    },
+    {
+        "code": "EESA06H3",
+        "title": "Introduction to Planet Earth",
+        "credits": 0.5
+    },
+    {
+        "code": "EESA10H3",
+        "title": "Human Health and the Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "EESA11H3",
+        "title": "Environmental Pollution",
+        "credits": 0.5
+    },
+    {
+        "code": "EESB03H3",
+        "title": "Principles of Climatology",
+        "credits": 0.5
+    },
+    {
+        "code": "EESB05H3",
+        "title": "Principles of Soil Science",
+        "credits": 0.5
+    },
+    {
+        "code": "EESB15H3",
+        "title": "Earth History",
+        "credits": 0.5
+    },
+    {
+        "code": "EESC13H3",
+        "title": "Environmental Impact Assessment and Auditing",
+        "credits": 0.5
+    },
+    {
+        "code": "EESC16H3",
+        "title": "Field Camp I",
+        "credits": 0.5
+    },
+    {
+        "code": "EESC24H3",
+        "title": "Advanced Readings in Environmental Science",
+        "credits": 0.5
+    },
+    {
+        "code": "EESD07H3",
+        "title": "Field Camp II",
+        "credits": 0.5
+    },
+    {
+        "code": "EESD09H3",
+        "title": "Research Project in Environmental Science",
+        "credits": 0.5
+    },
+    {
+        "code": "EESD33H3",
+        "title": "Field Techniques",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG100H1",
+        "title": "Effective Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG100H5",
+        "title": "Effective Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG102H1",
+        "title": "Literature and the Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG110H5",
+        "title": "Narrative",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG140Y1",
+        "title": "Literature for our Time",
+        "credits": 1.0
+    },
+    {
+        "code": "ENG201H1",
+        "title": "Reading Poetry",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG202H1",
+        "title": "Introduction to British Literature I",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG202H5",
+        "title": "British Literature in the World I: Medieval to Eighteenth-Century",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG203H1",
+        "title": "Introduction to British Literature II",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG203H5",
+        "title": "British Literature in the World II: Romantic to Contemporary",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG215H1",
+        "title": "The Canadian Short Story",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG218H5",
+        "title": "Interactive Storytelling and Worldmaking",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG220H1",
+        "title": "Introduction to Shakespeare",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG235H5",
+        "title": "Comics and the Graphic Novel",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG250H1",
+        "title": "Introduction to American Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG252H1",
+        "title": "Introduction to Canadian Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG263H5",
+        "title": "Play and Games",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG280H1",
+        "title": "Critical Approaches to Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG280H5",
+        "title": "Critical Approaches to Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG289H5",
+        "title": "Creative Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG296Y0",
+        "title": "Topics in English Literature",
+        "credits": 1.0
+    },
+    {
+        "code": "ENG297Y0",
+        "title": "Topics in English Literature",
+        "credits": 1.0
+    },
+    {
+        "code": "ENG340H1",
+        "title": "Modern Drama",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG343H5",
+        "title": "World Drama",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG345H5",
+        "title": "Victorian Poetry",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG357H1",
+        "title": "New Writing in Canada",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG362H5",
+        "title": "Canadian Literature, 1920 to the Present",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG365H5",
+        "title": "Contemporary American Fiction",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG371H1",
+        "title": "Topics in Indigenous, Postcolonial, Transnational Literatures",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG372H1",
+        "title": "Topics in Indigenous, Postcolonial, Transnational Literatures",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG373H1",
+        "title": "Topics in Pre-1800 British Literature",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG378H1",
+        "title": "Special Topics",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG378H5",
+        "title": "Special Topic in Writing for Performance",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG389H1",
+        "title": "Creative Writing: Short Fiction",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG480H1",
+        "title": "Advanced Studies Seminar",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG481H1",
+        "title": "Advanced Studies Seminar",
+        "credits": 0.5
+    },
+    {
+        "code": "ENG482H1",
+        "title": "Advanced Studies Seminar",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGA01H3",
+        "title": "What Is Literature?",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGB04H3",
+        "title": "How to Read a Poem",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGB12H3",
+        "title": "Life Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGB22H3",
+        "title": "Contemporary Literature from Africa",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGB38H3",
+        "title": "The Graphic Novel",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGC08H3",
+        "title": "Special Topics in Creative Writing I",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGC11H3",
+        "title": "Poetry and Popular Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGC47H3",
+        "title": "Modernist Poetry",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGC50H3",
+        "title": "Studies in Contemporary American Fiction",
+        "credits": 0.5
+    },
+    {
+        "code": "ENGD53H3",
+        "title": "Studies in Popular Genres",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV100H1",
+        "title": "Introduction to Environmental Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV100Y5",
+        "title": "The Environment",
+        "credits": 1.0
+    },
+    {
+        "code": "ENV200H1",
+        "title": "Assessing Global Change: Science and the Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV210H5",
+        "title": "Sustainability",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV221H1",
+        "title": "Multidisciplinary Perspectives on Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV222H1",
+        "title": "Pathways to Sustainability: An Interdisciplinary Approach",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV395Y0",
+        "title": "Sp Topics Field Crs",
+        "credits": 1.0
+    },
+    {
+        "code": "ENV399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "ENV411H1",
+        "title": "Sustainability Thinking",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV491Y1",
+        "title": "Independent Studies Project",
+        "credits": 1.0
+    },
+    {
+        "code": "ENV492H1",
+        "title": "Independent Studies Project (formerly INI492H1)",
+        "credits": 0.5
+    },
+    {
+        "code": "ENV493H1",
+        "title": "Independent Studies Project (formerly INI493H1)",
+        "credits": 0.5
+    },
+    {
+        "code": "ERS101H5",
+        "title": "Planet Earth",
+        "credits": 0.5
+    },
+    {
+        "code": "ERS325H5",
+        "title": "Field Camp I",
+        "credits": 0.5
+    },
+    {
+        "code": "ERS399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "ESC490H1",
+        "title": "Engineering Science Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "ESC499Y1",
+        "title": "Thesis",
+        "credits": 1.0
+    },
+    {
+        "code": "ESS103H1",
+        "title": "Geology in Public Issues",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS205H1",
+        "title": "Confronting Global Change",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS234H0",
+        "title": "Introduction to Geological Field Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS234H1",
+        "title": "Introduction to Geological Field Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "ESS324H0",
+        "title": "Advanced Geological Field Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS324H1",
+        "title": "Advanced Geological Field Methods",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS391H1",
+        "title": "Directed Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS392Y1",
+        "title": "Directed Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "ESS398H0",
+        "title": "Research Excursions",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS410H0",
+        "title": "Field Techniques",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS410H1",
+        "title": "Field Techniques in Environmental Geosciences",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS450H0",
+        "title": "Geophysical Field",
+        "credits": 0.5
+    },
+    {
+        "code": "ESS450H1",
+        "title": "Geophysical Field Techniques",
+        "credits": 0.5
+    },
+    {
+        "code": "EUR495H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH101H1",
+        "title": "Monuments of Art History",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH207H1",
+        "title": "Greek and Roman Art and Archaeology",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH216H1",
+        "title": "Later Medieval Art and Architecture",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH230H1",
+        "title": "Renaissance Art and Architecture",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH246H1",
+        "title": "Art Since 1900",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH274H5",
+        "title": "Renaissance Art and Architecture",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH295H5",
+        "title": "Topics in Art History",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH338H1",
+        "title": "Art and Consumers in the Renaissance (1400-1700)",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH380H1",
+        "title": "Special Topics in Art History",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH382H1",
+        "title": "Art Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH391Y0",
+        "title": "Studies Abroad in Ancient Art and Architecture",
+        "credits": 1.0
+    },
+    {
+        "code": "FAH392H5",
+        "title": "Topics in Modern Art/Architecture",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH393H5",
+        "title": "Topics in Ancient Greco-Roman Art",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH393Y0",
+        "title": "Studies Abroad in Renaissance and Baroque Art and Architecture",
+        "credits": 1.0
+    },
+    {
+        "code": "FAH394H5",
+        "title": "Topics in Early Modern Art and Architecture",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH394Y0",
+        "title": "Studies Abroad in Modern and Contemporary Art and Architecture",
+        "credits": 1.0
+    },
+    {
+        "code": "FAH448H1",
+        "title": "International Art Since 1940",
+        "credits": 0.5
+    },
+    {
+        "code": "FAH494H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS143H5",
+        "title": "Drawing I",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS145H5",
+        "title": "Painting I",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS147H5",
+        "title": "Photography I",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS232H5",
+        "title": "Print Media I",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS236H5",
+        "title": "Design I",
+        "credits": 0.5
+    },
+    {
+        "code": "FAS248H5",
+        "title": "Sculpture I",
+        "credits": 0.5
+    },
+    {
+        "code": "FCS292H1",
+        "title": "Love, Sex and Desire in French Literature and Cinema",
+        "credits": 0.5
+    },
+    {
+        "code": "FCS369Y0",
+        "title": "The Culture of Touraine",
+        "credits": 1.0
+    },
+    {
+        "code": "FLDA01Y3",
+        "title": "Placement Fee Arts Management",
+        "credits": 1.0
+    },
+    {
+        "code": "FLDC01H3",
+        "title": "Arts Management Field Placement I",
+        "credits": 0.5
+    },
+    {
+        "code": "FLDD01H3",
+        "title": "Arts Management Field Placement II",
+        "credits": 0.5
+    },
+    {
+        "code": "FLDD02H3",
+        "title": "Arts Management Field Placement III",
+        "credits": 0.5
+    },
+    {
+        "code": "FLMD52H3",
+        "title": "Cinema: The Auteur Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "FOR200H1",
+        "title": "Conservation of Canada's Forests",
+        "credits": 0.5
+    },
+    {
+        "code": "FOR305H1",
+        "title": "Biology of Trees and Forests",
+        "credits": 0.5
+    },
+    {
+        "code": "FRE283H5",
+        "title": "Intermediate Language Practice: Spoken French",
+        "credits": 0.5
+    },
+    {
+        "code": "FRE299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "FREA96H3",
+        "title": "Beginner French I",
+        "credits": 0.5
+    },
+    {
+        "code": "FREA97H3",
+        "title": "Beginner French II",
+        "credits": 0.5
+    },
+    {
+        "code": "FREB17H3",
+        "title": "Spoken French: Conversation and Pronunciation",
+        "credits": 0.5
+    },
+    {
+        "code": "FREB18H3",
+        "title": "Business French",
+        "credits": 0.5
+    },
+    {
+        "code": "FREB27H3",
+        "title": "Modern France",
+        "credits": 0.5
+    },
+    {
+        "code": "FREB55H3",
+        "title": "Literary History in Context: 18th and 19th Centuries",
+        "credits": 0.5
+    },
+    {
+        "code": "FRED02H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "FRED03H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "FRED04H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "FRED05H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "FRED90Y3",
+        "title": "Supervised Reading",
+        "credits": 1.0
+    },
+    {
+        "code": "FSC100H5",
+        "title": "The Real CSI",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC210H5",
+        "title": "Physical Evidence and Microscopy",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC271H5",
+        "title": "Ethics and Professionalism in Forensic Science",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC303H5",
+        "title": "Techniques of Crime Scene Investigation",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC307H5",
+        "title": "Missing Persons DVI and Unidentified Human Remains",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC315H5",
+        "title": "Forensic Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC330H5",
+        "title": "Best Practices in Forensic Science",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC341H5",
+        "title": "Applied Forensic Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "FSC399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "FSL100H0",
+        "title": "French for Beginners I",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL100H1",
+        "title": "Elementary French I",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL102H0",
+        "title": "Introd French",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL102H1",
+        "title": "Elementary French II",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL105H5",
+        "title": "Functional French-Novice",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL195Y0",
+        "title": "French Language in Tours I",
+        "credits": 1.0
+    },
+    {
+        "code": "FSL295Y0",
+        "title": "French Language in Tours II",
+        "credits": 1.0
+    },
+    {
+        "code": "FSL322H0",
+        "title": "Intermediate French IV",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL420H0",
+        "title": "Advanced French I",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL442H0",
+        "title": "LP II: Written French",
+        "credits": 0.5
+    },
+    {
+        "code": "FSL443H0",
+        "title": "LP II: Oral French",
+        "credits": 0.5
+    },
+    {
+        "code": "FSTA02H3",
+        "title": "Food Futures: Confronting Crises, Improving Lives",
+        "credits": 0.5
+    },
+    {
+        "code": "FSTD02H3",
+        "title": "Special Topics in Food Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "FSTD12H3",
+        "title": "Cuisine, Culture, Ecology",
+        "credits": 0.5
+    },
+    {
+        "code": "GASC33H3",
+        "title": "Critical Perspectives in Global Buddhism",
+        "credits": 0.5
+    },
+    {
+        "code": "GASC73H3",
+        "title": "Making the Global South",
+        "credits": 0.5
+    },
+    {
+        "code": "GER100Y1",
+        "title": "Introduction to German",
+        "credits": 1.0
+    },
+    {
+        "code": "GER101H1",
+        "title": "Introduction to German b",
+        "credits": 0.5
+    },
+    {
+        "code": "GER200Y0",
+        "title": "Intermediate German 1",
+        "credits": 1.0
+    },
+    {
+        "code": "GER300Y0",
+        "title": "[No course title available]",
+        "credits": 1.0
+    },
+    {
+        "code": "GER354Y0",
+        "title": "Special Topics Summer Course [E]",
+        "credits": 1.0
+    },
+    {
+        "code": "GER391H1",
+        "title": "iPRAKTIKUM Experiential Learning and Internationalization Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "GER490H1",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR107H1",
+        "title": "Environment, Food and People",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR111H5",
+        "title": "Human Geography",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR112H1",
+        "title": "Geopolitics, Globalization, and Inequality",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR208H5",
+        "title": "Population Geography",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR210H5",
+        "title": "Social Geographies",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR246H1",
+        "title": "Geography of Canada",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR272H1",
+        "title": "Geographic Information and Mapping I",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR273H1",
+        "title": "Geographic Information and Mapping II",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR276H5",
+        "title": "Spatial Data Science I",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR278H5",
+        "title": "Introduction to GIScience",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR305H5",
+        "title": "Biogeography",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR314H1",
+        "title": "Global Warming",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR316H5",
+        "title": "Landforms",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR327H1",
+        "title": "Geography and Gender",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR329H1",
+        "title": "The Global Food System",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR337H5",
+        "title": "Environmental Remote Sensing",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR382H5",
+        "title": "Digital Mapping and Principles of Cartography",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "GGR440H5",
+        "title": "Drone Remote Sensing",
+        "credits": 0.5
+    },
+    {
+        "code": "GGR497H5",
+        "title": "Human Geography Independent Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRA03H3",
+        "title": "Cities and Environments",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRA30H3",
+        "title": "Geographic Information Systems (GIS) and Empirical Reasoning",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRB05H3",
+        "title": "Urban Geography",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRB28H3",
+        "title": "Geographies of Disease",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRC25H3",
+        "title": "Land Reform and Development",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRD01H3",
+        "title": "Supervised Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "GGRD31H3",
+        "title": "Independent Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "GRK101H1",
+        "title": "Introductory Ancient Greek I",
+        "credits": 0.5
+    },
+    {
+        "code": "GRK102H1",
+        "title": "Introductory Ancient Greek II",
+        "credits": 0.5
+    },
+    {
+        "code": "GRK201H1",
+        "title": "Intermediate Ancient Greek I",
+        "credits": 0.5
+    },
+    {
+        "code": "GRK202H1",
+        "title": "Intermediate Ancient Greek II",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS115H1",
+        "title": "History Now: How the Past Shapes the Present",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS201H5",
+        "title": "Introduction to Middle Eastern History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS203H5",
+        "title": "The Making of the Atlantic World (1000-1800)",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS242H1",
+        "title": "Europe in the 20th Century",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS250H5",
+        "title": "Introduction to Russian History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS264H1",
+        "title": "Critical Issues in Canadian History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS280Y1",
+        "title": "History of China",
+        "credits": 1.0
+    },
+    {
+        "code": "HIS308H5",
+        "title": "Themes in the History of Women Before 1800",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS319H1",
+        "title": "Histories of the Horn of Africa",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS326H1",
+        "title": "Topics in Asian Histories",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS350H1",
+        "title": "Topics in European Histories",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS389H1",
+        "title": "Topics in History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS389Y0",
+        "title": "Topics in History",
+        "credits": 1.0
+    },
+    {
+        "code": "HIS392H5",
+        "title": "Topics in Global History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS395H5",
+        "title": "Topics in History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS404H1",
+        "title": "Advanced Topics in U.S. History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS494H5",
+        "title": "Advanced Topics in the History of the Americas",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS496H1",
+        "title": "Advanced Topics in History",
+        "credits": 0.5
+    },
+    {
+        "code": "HIS499H5",
+        "title": "Independent Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "HISA02H3",
+        "title": "Rise of the Machines: How Technology Remakes the World",
+        "credits": 0.5
+    },
+    {
+        "code": "HISA03H3",
+        "title": "The Global Middle East",
+        "credits": 0.5
+    },
+    {
+        "code": "HISB60H3",
+        "title": "Europe in the Early Middle Ages (305-1053)",
+        "credits": 0.5
+    },
+    {
+        "code": "HISB94H3",
+        "title": "Modern Europe II: The Twentieth Century",
+        "credits": 0.5
+    },
+    {
+        "code": "HISC73H3",
+        "title": "Making the Global South",
+        "credits": 0.5
+    },
+    {
+        "code": "HISD01H3",
+        "title": "Independent Studies: Senior Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "HISD02H3",
+        "title": "Independent Studies: Senior Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTA02H3",
+        "title": "Exploring Health and Society: Theories, Perspectives, and Patterns",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTA03H3",
+        "title": "Navigating Health and Society: Research, Practice, and Policy",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTA20H3",
+        "title": "Physiology Through the Life Course: From Birth Through Death",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB15H3",
+        "title": "Health Research Methodologies",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB16H3",
+        "title": "Public Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB22H3",
+        "title": "Biological Determinants of Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB27H3",
+        "title": "Applied Statistics for Public Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB40H3",
+        "title": "Health Policy and Health Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB41H3",
+        "title": "Social Determinants of Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTB50H3",
+        "title": "Introduction to Health Humanities",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTC02H3",
+        "title": "Women and Health: Past and Present",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTC22H3",
+        "title": "Health, Aging, and the Life Cycle",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTC27H3",
+        "title": "Community Health and Epidemiology",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTC52H3",
+        "title": "Special Topics in Health Humanities",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD01H3",
+        "title": "Directed Readings in Health and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD04H3",
+        "title": "Advanced Topics in Health and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD22H3",
+        "title": "Advanced Topics in Health and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD47H3",
+        "title": "Advanced Topics in Health and Wellness",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD50H3",
+        "title": "Advanced Topics in Health Humanities",
+        "credits": 0.5
+    },
+    {
+        "code": "HLTD71Y3",
+        "title": "Directed Research in Health and Society",
+        "credits": 1.0
+    },
+    {
+        "code": "HLTD96Y3",
+        "title": "Directed Research in Paramedicine",
+        "credits": 1.0
+    },
+    {
+        "code": "HMB200H1",
+        "title": "Introduction to Neuroscience",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB204H1",
+        "title": "Introduction to Human Biology",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB226H1",
+        "title": "Indigenous Holistic Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB265H1",
+        "title": "General & Human Genetics",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB300H1",
+        "title": "Neurobiology of Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB302H1",
+        "title": "Vertebrate Histology and Histopathology",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB304H1",
+        "title": "Challenges of Antimicrobial Resistance",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB306H1",
+        "title": "Ethical Considerations in Emerging Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB322H1",
+        "title": "Topics in Health & Disease",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB342H1",
+        "title": "Epidemiology of Health & Disease",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB385H1",
+        "title": "The Human Microbiome in Health & Disease",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB394Y0",
+        "title": "International Research Project in Human Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "HMB395Y0",
+        "title": "Summer Abroad Topics in Human Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "HMB396Y0",
+        "title": "International Research Project in Human Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "HMB437H1",
+        "title": "The Biology of the Human Metallome",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB441H1",
+        "title": "Genetics of Human Disease",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB442H1",
+        "title": "Brain Tumours: From Diagnosis to Treatment Effects",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB453H1",
+        "title": "AIDS: A Global Perspective",
+        "credits": 0.5
+    },
+    {
+        "code": "HMB496Y1",
+        "title": "Research Project in Human Biology",
+        "credits": 1.0
+    },
+    {
+        "code": "HMB499Y1",
+        "title": "Research Project in Human Biology II",
+        "credits": 1.0
+    },
+    {
+        "code": "HPS200H1",
+        "title": "Science and Values",
+        "credits": 0.5
+    },
+    {
+        "code": "HPS202H1",
+        "title": "Technology in the Modern World",
+        "credits": 0.5
+    },
+    {
+        "code": "HPS300H1",
+        "title": "Topics in History and Philosophy of Science and Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "HPS301H1",
+        "title": "Topics in the History of Science and Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "HPS302H1",
+        "title": "Topics in Philosophy of Science and Technology",
+        "credits": 0.5
+    },
+    {
+        "code": "HPS495Y1",
+        "title": "Individual Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "HPS496H1",
+        "title": "Individual Studies in HPS",
+        "credits": 0.5
+    },
+    {
+        "code": "HSC301H5",
+        "title": "Data and Information Visualization",
+        "credits": 0.5
+    },
+    {
+        "code": "HSC406H5",
+        "title": "Advanced Written Communication for Health Care",
+        "credits": 0.5
+    },
+    {
+        "code": "HST209H1",
+        "title": "Introduction to Social Determinants of Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HST250H1",
+        "title": "Introduction to Quantitative Methods in Public Health",
+        "credits": 0.5
+    },
+    {
+        "code": "HST407H1",
+        "title": "Special Topics in Advanced Public Health I",
+        "credits": 0.5
+    },
+    {
+        "code": "HST451Y1",
+        "title": "Independent Research in Public Health",
+        "credits": 1.0
+    },
+    {
+        "code": "IDSA01H3",
+        "title": "Introduction to International Development Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "IDSD14H3",
+        "title": "Directed Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "IDSD15H3",
+        "title": "Directed Research",
+        "credits": 0.5
+    },
+    {
+        "code": "IFP081H1",
+        "title": "Communication in Undergraduate Programs",
+        "credits": 0.5
+    },
+    {
+        "code": "IFP082H1",
+        "title": "Strategies for Cross- discipline Success",
+        "credits": 0.5
+    },
+    {
+        "code": "IFP100H1",
+        "title": "Themes in World History",
+        "credits": 0.5
+    },
+    {
+        "code": "IMM340H1",
+        "title": "Fundamental Immunology",
+        "credits": 0.5
+    },
+    {
+        "code": "IMM350H1",
+        "title": "The Immune System in Action",
+        "credits": 0.5
+    },
+    {
+        "code": "INF301H1",
+        "title": "Intro to Info and Power",
+        "credits": 0.5
+    },
+    {
+        "code": "INF402H1",
+        "title": "Practicum",
+        "credits": 0.5
+    },
+    {
+        "code": "INS200H1",
+        "title": "Introduction to Indigenous Truth and Resilience",
+        "credits": 0.5
+    },
+    {
+        "code": "INS495Y1",
+        "title": "Independent Research",
+        "credits": 1.0
+    },
+    {
+        "code": "INT200H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT300H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT301H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT400H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT401H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT450H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT451H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT470H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "INT471H1",
+        "title": "Arts & Science Internship Program - Professional Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE242H1",
+        "title": "HRM for Industrial Relations and HR Professionals",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE244H1",
+        "title": "Labour Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE260H1",
+        "title": "Organizational Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE332Y0",
+        "title": "Topics in Industrial Relations and Human Resources (Summer Abroad Program)",
+        "credits": 1.0
+    },
+    {
+        "code": "IRE347H1",
+        "title": "Training & Development",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE430H1",
+        "title": "Canadian Employment Law & the Non-Union Workplace",
+        "credits": 0.5
+    },
+    {
+        "code": "IRE431H1",
+        "title": "Canadian Labour Law & the Unionized Workplace",
+        "credits": 0.5
+    },
+    {
+        "code": "IRW220H1",
+        "title": "Statistics for Work and Organizations",
+        "credits": 0.5
+    },
+    {
+        "code": "IRW410H1",
+        "title": "Organizational Governance and Design",
+        "credits": 0.5
+    },
+    {
+        "code": "IRW420H1",
+        "title": "Management Skills for Project and Strategy Implementation",
+        "credits": 0.5
+    },
+    {
+        "code": "IRW432Y1",
+        "title": "Entrepreneurship",
+        "credits": 1.0
+    },
+    {
+        "code": "ISP010H5",
+        "title": "Basics of Writing in English (BoWiE)",
+        "credits": 0.5
+    },
+    {
+        "code": "ISP100H5",
+        "title": "Writing for University and Beyond",
+        "credits": 0.5
+    },
+    {
+        "code": "ISP251H5",
+        "title": "Special Topics in University Pedagogy",
+        "credits": 0.5
+    },
+    {
+        "code": "ISP311H5",
+        "title": "Special Topics at the Intersection of Science and Humanities",
+        "credits": 0.5
+    },
+    {
+        "code": "ITA100Y1",
+        "title": "Italian Language for Beginners",
+        "credits": 1.0
+    },
+    {
+        "code": "ITA233H5",
+        "title": "Italian Culture through Fashion",
+        "credits": 0.5
+    },
+    {
+        "code": "ITA235H5",
+        "title": "Italian Culture through Food",
+        "credits": 0.5
+    },
+    {
+        "code": "ITA314H1",
+        "title": "Italian Design: Fashion, Artistry, Genius",
+        "credits": 0.5
+    },
+    {
+        "code": "ITA491Y5",
+        "title": "Independent Studies in Italian",
+        "credits": 1.0
+    },
+    {
+        "code": "ITA499H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "JAV120H1",
+        "title": "Visual Concepts",
+        "credits": 0.5
+    },
+    {
+        "code": "JAV130H1",
+        "title": "Visual Strategies",
+        "credits": 0.5
+    },
+    {
+        "code": "JGE378H5",
+        "title": "Natural Hazards",
+        "credits": 0.5
+    },
+    {
+        "code": "JLP374H1",
+        "title": "Psychology of Language",
+        "credits": 0.5
+    },
+    {
+        "code": "JOUB03H3",
+        "title": "Business of Journalism",
+        "credits": 0.5
+    },
+    {
+        "code": "JOUC13H3",
+        "title": "Entrepreneurial Reporting",
+        "credits": 0.5
+    },
+    {
+        "code": "JOUC25H3",
+        "title": "Field Placement",
+        "credits": 0.5
+    },
+    {
+        "code": "JQR360H1",
+        "title": "The Canadian Census: Populations, Migrations and Demographics",
+        "credits": 0.5
+    },
+    {
+        "code": "JRE300H1",
+        "title": "Fundamentals of Accounting and Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "JRE410H1",
+        "title": "Markets and Competitive Strategy",
+        "credits": 0.5
+    },
+    {
+        "code": "JRE420H1",
+        "title": "People Management and Organizational Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE200H1",
+        "title": "Physical Cultural Studies: Theories, Bodies, Politics and Praxis",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE260H1",
+        "title": "Human Physiology I",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE321H1",
+        "title": "Population Health",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE324H1",
+        "title": "Advanced Sport Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE334H1",
+        "title": "Adapted Physical Activity",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE363H1",
+        "title": "Sport Medicine",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE369H1",
+        "title": "Human Physiology II",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE400H1",
+        "title": "Ethics & Power in Kinesiology Physical Education and Health Fields",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE401H1",
+        "title": "International Development through Sport",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE407H1",
+        "title": "Maltreatment in Youth Sport",
+        "credits": 0.5
+    },
+    {
+        "code": "KPE429H1",
+        "title": "Sport Management",
+        "credits": 0.5
+    },
+    {
+        "code": "LAT101H1",
+        "title": "Introductory Latin I",
+        "credits": 0.5
+    },
+    {
+        "code": "LAT102H1",
+        "title": "Introductory Latin II",
+        "credits": 0.5
+    },
+    {
+        "code": "LAT201H1",
+        "title": "Intermediate Latin I",
+        "credits": 0.5
+    },
+    {
+        "code": "LAT202H1",
+        "title": "Intermediate Latin II",
+        "credits": 0.5
+    },
+    {
+        "code": "LCT494H1",
+        "title": "LCT Senior Research Paper",
+        "credits": 0.5
+    },
+    {
+        "code": "LGGA10H3",
+        "title": "Beginner Korean I",
+        "credits": 0.5
+    },
+    {
+        "code": "LGGA64H3",
+        "title": "Chinese I for Students with Prior Backgrounds",
+        "credits": 0.5
+    },
+    {
+        "code": "LGGA82Y3",
+        "title": "Intensive Introductory Japanese",
+        "credits": 1.0
+    },
+    {
+        "code": "LGGA90Y3",
+        "title": "Intensive Introductory Spanish",
+        "credits": 1.0
+    },
+    {
+        "code": "LGGA95Y3",
+        "title": "Intensive Introduction to a Featured Language",
+        "credits": 1.0
+    },
+    {
+        "code": "LIN101H1",
+        "title": "Introduction to Linguistics: Sound Structure",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN102H1",
+        "title": "Introduction to Linguistics: Sentence Structure and Meaning",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN200H1",
+        "title": "Introduction to Language",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN204H5",
+        "title": "English Grammar I",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN211H1",
+        "title": "American Sign Language 1",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN228H1",
+        "title": "Phonetics",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN241H1",
+        "title": "Introduction to Semantics",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN251H1",
+        "title": "Introduction to Sociolinguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN299H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "LIN399H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "LIN495Y1",
+        "title": "Individual Project",
+        "credits": 1.0
+    },
+    {
+        "code": "LIN496H1",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN498H1",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "LIN499H1",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "LINA01H3",
+        "title": "Introduction to Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LINA02H3",
+        "title": "Applications of Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LINB06H3",
+        "title": "Syntax I",
+        "credits": 0.5
+    },
+    {
+        "code": "LINB09H3",
+        "title": "Phonetics: The Study of Speech Sounds",
+        "credits": 0.5
+    },
+    {
+        "code": "LINB18H3",
+        "title": "English Grammar",
+        "credits": 0.5
+    },
+    {
+        "code": "LINB60H3",
+        "title": "Comparative Study of English and Chinese",
+        "credits": 0.5
+    },
+    {
+        "code": "LINB98H3",
+        "title": "Supervised Introductory Research in Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LINC61H3",
+        "title": "Structure of a Language",
+        "credits": 0.5
+    },
+    {
+        "code": "LIND01H3",
+        "title": "Independent Study in Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LIND02H3",
+        "title": "Independent Study in Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LIND03H3",
+        "title": "Independent Study in Linguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "LMP299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "LMP399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT102H5",
+        "title": "Introduction to Mathematical Proofs",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT133Y1",
+        "title": "Calculus and Linear Algebra for Commerce",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT134H5",
+        "title": "Integral Calculus for Life Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT135H1",
+        "title": "Calculus I",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT135H5",
+        "title": "Differential Calculus",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT136H1",
+        "title": "Calculus II",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT136H5",
+        "title": "Integral Calculus",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT137Y1",
+        "title": "Calculus with Proofs",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT187H1",
+        "title": "Calculus II",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT223H1",
+        "title": "Linear Algebra I",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT223H5",
+        "title": "Linear Algebra I",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT224H1",
+        "title": "Linear Algebra II",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT232H5",
+        "title": "Calculus of Several Variables",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT235Y1",
+        "title": "Multivariable Calculus",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT236H5",
+        "title": "Vector Calculus",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT237Y1",
+        "title": "Multivariable Calculus with Proofs",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT244H1",
+        "title": "Introduction to Ordinary Differential Equations",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT244H5",
+        "title": "Differential Equations I",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT246H1",
+        "title": "Concepts in Abstract Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT295H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT296H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT299H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT301H1",
+        "title": "Groups and Symmetries",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT301H5",
+        "title": "Groups and Symmetries",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT315H1",
+        "title": "Introduction to Number Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT327H1",
+        "title": "Introduction to Topology",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT334H1",
+        "title": "Complex Variables",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT337H1",
+        "title": "Introduction to Real Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT344H1",
+        "title": "Introduction to Combinatorics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT395H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT396H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT397H5",
+        "title": "Further Studies in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT397Y1",
+        "title": "Research Project in Mathematics",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT398H5",
+        "title": "Further Studies in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT401H1",
+        "title": "Polynomial Equations and Fields",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT402H1",
+        "title": "Classical Geometries",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT492H5",
+        "title": "Senior Thesis",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT495H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT496H1",
+        "title": "Independent Reading in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT497H5",
+        "title": "Further Studies in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT497Y1",
+        "title": "Research Project in Mathematics",
+        "credits": 1.0
+    },
+    {
+        "code": "MAT498H5",
+        "title": "Further Studies in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MAT499Y1",
+        "title": "Readings in Mathematics",
+        "credits": 1.0
+    },
+    {
+        "code": "MATA22H3",
+        "title": "Linear Algebra I for Mathematical Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "MATA23H3",
+        "title": "Linear Algebra I",
+        "credits": 0.5
+    },
+    {
+        "code": "MATA34H3",
+        "title": "Calculus for Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MATA35H3",
+        "title": "Calculus II for Biological Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "MATA36H3",
+        "title": "Calculus II for Physical Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "MATA37H3",
+        "title": "Calculus II for Mathematical Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "MATB24H3",
+        "title": "Linear Algebra II",
+        "credits": 0.5
+    },
+    {
+        "code": "MATB41H3",
+        "title": "Techniques of the Calculus of Several Variables I",
+        "credits": 0.5
+    },
+    {
+        "code": "MATB42H3",
+        "title": "Techniques of the Calculus of Several Variables II",
+        "credits": 0.5
+    },
+    {
+        "code": "MATC01H3",
+        "title": "Groups and Symmetry",
+        "credits": 0.5
+    },
+    {
+        "code": "MATD92H3",
+        "title": "Mathematics Project",
+        "credits": 0.5
+    },
+    {
+        "code": "MATD93H3",
+        "title": "Mathematics Project",
+        "credits": 0.5
+    },
+    {
+        "code": "MATD94H3",
+        "title": "Readings in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MATD95H3",
+        "title": "Readings in Mathematics",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSB11H3",
+        "title": "Media and the Arts",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSB21H3",
+        "title": "Media and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSC14H3",
+        "title": "Media and Popular Culture in East Asia",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSC30H3",
+        "title": "Advanced Studies in Media and Institutions",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSC31H3",
+        "title": "Platforms and Cultural Production",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSC33H3",
+        "title": "Games and Play",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSD10H3",
+        "title": "Senior Seminar: Topics in Media and Arts",
+        "credits": 0.5
+    },
+    {
+        "code": "MDSD20H3",
+        "title": "Senior Seminar: Topics in Media and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAB02H3",
+        "title": "Introductory Financial Accounting II",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAB03H3",
+        "title": "Introductory Management Accounting",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAC01H3",
+        "title": "Intermediate Financial Accounting I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAC02H3",
+        "title": "Intermediate Financial Accounting II",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAC03H3",
+        "title": "Intermediate Management Accounting",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAC70H3",
+        "title": "Management Information Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAD40H3",
+        "title": "Management Control Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAD45H3",
+        "title": "Corporate Governance and Strategy - CPA Perspective",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAD50H3",
+        "title": "Advanced Financial Accounting",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAD65H3",
+        "title": "Canadian Income Taxation II",
+        "credits": 0.5
+    },
+    {
+        "code": "MGAD70H3",
+        "title": "Advanced Accounting Case Analysis: A Capstone Course",
+        "credits": 0.5
+    },
+    {
+        "code": "MGD415H5",
+        "title": "E-Business Strategies",
+        "credits": 0.5
+    },
+    {
+        "code": "MGD426H5",
+        "title": "Enterprise Risk Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGD427H5",
+        "title": "Advanced Legal Issues",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEA02H3",
+        "title": "Introduction to Microeconomics: A Mathematical Approach",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEA06H3",
+        "title": "Introduction to Macroeconomics: A Mathematical Approach",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEB02H3",
+        "title": "Price Theory: A Mathematical Approach",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEB06H3",
+        "title": "Macroeconomic Theory and Policy: A Mathematical Approach",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEB11H3",
+        "title": "Quantitative Methods in Economics I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEB12H3",
+        "title": "Quantitative Methods in Economics II",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC02H3",
+        "title": "Topics in Price Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC06H3",
+        "title": "Topics in Macroeconomic Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC11H3",
+        "title": "Introduction to Regression Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC40H3",
+        "title": "Economics of Organization and Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC61H3",
+        "title": "International Economics: Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC71H3",
+        "title": "Money and Banking",
+        "credits": 0.5
+    },
+    {
+        "code": "MGEC93H3",
+        "title": "International Economics",
+        "credits": 0.5
+    },
+    {
+        "code": "MGED90H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "MGED91H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "MGFB10H3",
+        "title": "Principles of Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "MGFC10H3",
+        "title": "Intermediate Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "MGFC20H3",
+        "title": "Personal Financial Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGFD15H3",
+        "title": "Private Equity",
+        "credits": 0.5
+    },
+    {
+        "code": "MGHA12H3",
+        "title": "Human Resource Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGHB02H3",
+        "title": "Managing People and Groups in Organizations",
+        "credits": 0.5
+    },
+    {
+        "code": "MGHC02H3",
+        "title": "Management Skills",
+        "credits": 0.5
+    },
+    {
+        "code": "MGHC55H3",
+        "title": "International Management OBHR Field Course",
+        "credits": 0.5
+    },
+    {
+        "code": "MGIB01H3",
+        "title": "Global Marketing",
+        "credits": 0.5
+    },
+    {
+        "code": "MGM101H5",
+        "title": "Introduction to Management Functions",
+        "credits": 0.5
+    },
+    {
+        "code": "MGM102H5",
+        "title": "Management in a Changing Environment",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMB01H3",
+        "title": "Marketing Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMC02H3",
+        "title": "Consumer Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMC11H3",
+        "title": "Product Management and Branding",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMC12H3",
+        "title": "Advertising: From Theory to Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMD10H3",
+        "title": "Seminar in Consumer Psychology I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGMD21H3",
+        "title": "Competitive Marketing in Action",
+        "credits": 0.5
+    },
+    {
+        "code": "MGOC10H3",
+        "title": "Analytics for Decision Making",
+        "credits": 0.5
+    },
+    {
+        "code": "MGOC15H3",
+        "title": "Introductory Business Data Analytics",
+        "credits": 0.5
+    },
+    {
+        "code": "MGOC20H3",
+        "title": "Operations Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGSC01H3",
+        "title": "Strategic Management I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGSC14H3",
+        "title": "Management Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "MGSC30H3",
+        "title": "The Legal Environment of Business I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGSD40H3",
+        "title": "Principles of Corporate Social Responsibility",
+        "credits": 0.5
+    },
+    {
+        "code": "MGT120H5",
+        "title": "Introduction to Financial Accounting",
+        "credits": 0.5
+    },
+    {
+        "code": "MGT150H5",
+        "title": "Financial Planning for Individuals",
+        "credits": 0.5
+    },
+    {
+        "code": "MGT223H5",
+        "title": "Managerial Accounting I",
+        "credits": 0.5
+    },
+    {
+        "code": "MGT395Y0",
+        "title": "Special Topics",
+        "credits": 1.0
+    },
+    {
+        "code": "MGT396Y0",
+        "title": "Special Topics",
+        "credits": 1.0
+    },
+    {
+        "code": "MGT399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "MGTA01H3",
+        "title": "Introduction to Business",
+        "credits": 0.5
+    },
+    {
+        "code": "MGTA02H3",
+        "title": "Managing the Business Organization",
+        "credits": 0.5
+    },
+    {
+        "code": "MGTA38H3",
+        "title": "Management Communications",
+        "credits": 0.5
+    },
+    {
+        "code": "MGTD80H3",
+        "title": "Supervised Reading In Management",
+        "credits": 0.5
+    },
+    {
+        "code": "MGTD82Y3",
+        "title": "Supervised Reading In Management",
+        "credits": 1.0
+    },
+    {
+        "code": "MGY299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "MIE100H1",
+        "title": "Dynamics",
+        "credits": 0.5
+    },
+    {
+        "code": "MUS210H1",
+        "title": "Music in Film",
+        "credits": 0.5
+    },
+    {
+        "code": "MUS340H1",
+        "title": "20th Century Music for Theatre",
+        "credits": 0.5
+    },
+    {
+        "code": "NEW390Y1",
+        "title": "New College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "NEW391H1",
+        "title": "New College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "NEW490Y1",
+        "title": "New College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "NEW491H1",
+        "title": "New College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "NMC201H1",
+        "title": "Slavery in Islamic History, 600-1600",
+        "credits": 0.5
+    },
+    {
+        "code": "NMC230H1",
+        "title": "Ancient Egypt in Popular Media",
+        "credits": 0.5
+    },
+    {
+        "code": "NMC276H1",
+        "title": "Topics in Near & Middle Eastern Civilizations",
+        "credits": 0.5
+    },
+    {
+        "code": "NMC277H1",
+        "title": "Topics in Near & Middle Eastern Civilizations",
+        "credits": 0.5
+    },
+    {
+        "code": "NMC290H0",
+        "title": "Field Archaeology 1",
+        "credits": 0.5
+    },
+    {
+        "code": "NROB60H3",
+        "title": "Neuroanatomy Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "NROB61H3",
+        "title": "Neurophysiology",
+        "credits": 0.5
+    },
+    {
+        "code": "NROC64H3",
+        "title": "Sensorimotor Systems",
+        "credits": 0.5
+    },
+    {
+        "code": "PCJ499H1",
+        "title": "Peace and Conflict Studies Independent Study Course",
+        "credits": 0.5
+    },
+    {
+        "code": "PCL297H1",
+        "title": "Research Experience in Pharmacology & Toxicology I",
+        "credits": 0.5
+    },
+    {
+        "code": "PCL298H1",
+        "title": "Research Experience in Pharmacology & Toxicology II",
+        "credits": 0.5
+    },
+    {
+        "code": "PCL299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL397Y0",
+        "title": "Research Abroad in Pharmacology and Toxicology",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL397Y1",
+        "title": "Research Abroad in Pharmacology and Toxicology",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL472Y1",
+        "title": "Project in Pharmacology",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL474Y1",
+        "title": "Project in Toxicology",
+        "credits": 1.0
+    },
+    {
+        "code": "PCL497H1",
+        "title": "Advanced Research in Pharmacology or Biomedical Toxicology",
+        "credits": 0.5
+    },
+    {
+        "code": "PCL498Y1",
+        "title": "Advanced Research in Pharmacology or Biomedical Toxicology",
+        "credits": 1.0
+    },
+    {
+        "code": "PEY300H1",
+        "title": "Summer Co-op Work Term",
+        "credits": 0.5
+    },
+    {
+        "code": "PEY400Y1",
+        "title": "Professional Experience Year Co-op",
+        "credits": 1.0
+    },
+    {
+        "code": "PHC489Y1",
+        "title": "Pharmaceutical Chemistry Research",
+        "credits": 1.0
+    },
+    {
+        "code": "PHL100Y1",
+        "title": "Ancient Wisdom, Modern Insights: A Historical Introduction to Philosophy",
+        "credits": 1.0
+    },
+    {
+        "code": "PHL113H5",
+        "title": "Introduction to Philosophy: Persons and Value",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL210Y1",
+        "title": "17th-and 18th-Century Philosophy",
+        "credits": 1.0
+    },
+    {
+        "code": "PHL217H1",
+        "title": "Introduction to Continental Philosophy",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL221H5",
+        "title": "Philosophy at the Movies",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL232H1",
+        "title": "Knowledge and Reality",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL240H1",
+        "title": "Persons, Minds and Bodies",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL240H5",
+        "title": "Minds and Machines",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL243H1",
+        "title": "Philosophy of Human Sexuality",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL243H5",
+        "title": "Philosophy of Human Sexuality",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL245H1",
+        "title": "Modern Symbolic Logic",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL245H5",
+        "title": "Modern Symbolic Logic",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL271H1",
+        "title": "Law and Morality",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL273H1",
+        "title": "Environmental Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL275H1",
+        "title": "Introduction to Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL281H1",
+        "title": "Bioethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL303H1",
+        "title": "Plato",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL319H1",
+        "title": "Philosophy and Psychoanalytic Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL329H1",
+        "title": "Topics in 20th Century Continental Philosophy",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL341H1",
+        "title": "Freedom, Responsibility, and Human Action",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL370H5",
+        "title": "Issues in Philosophy of Law",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL374H5",
+        "title": "Issues in Normative Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL375H1",
+        "title": "Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL382H1",
+        "title": "Ethics: Death and Dying",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL388H1",
+        "title": "Literature and Philosophy",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL495H1",
+        "title": "Individual Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL496H1",
+        "title": "Individual Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "PHL498Y5",
+        "title": "Individual Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "PHLB06H3",
+        "title": "Business Ethics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLB11H3",
+        "title": "Philosophy of Law",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLB12H3",
+        "title": "Philosophy of Sexuality",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLB55H3",
+        "title": "Puzzles and Paradoxes",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLC07H3",
+        "title": "Death and Dying",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLC92H3",
+        "title": "Political Philosophy",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD90H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD91H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD92H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD93H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD94H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD95H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD96H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD97H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD98H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHLD99H3",
+        "title": "Independent Study",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY131H1",
+        "title": "Introduction to Physics I",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY132H1",
+        "title": "Introduction to Physics II",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY136H5",
+        "title": "Physics for Life and Environmental Sciences I",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY137H5",
+        "title": "Physics for Life and Environmental Sciences II",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY250H1",
+        "title": "Electricity and Magnetism",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY252H1",
+        "title": "Thermal Physics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY254H1",
+        "title": "Classical Mechanics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY256H1",
+        "title": "Introduction to Quantum Physics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY371Y1",
+        "title": "Supervised Study in Physics",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY372H1",
+        "title": "Supervised Study in Physics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY378H1",
+        "title": "Undergraduate Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY379Y1",
+        "title": "Undergraduate Research Project",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY396Y0",
+        "title": "Research Topic Abroad",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY397Y0",
+        "title": "Exchange Research Project Abroad",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY398Y0",
+        "title": "Research Excursions",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY471Y1",
+        "title": "Supervised Study in Physics",
+        "credits": 1.0
+    },
+    {
+        "code": "PHY472H1",
+        "title": "Supervised Study in Physics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY473H5",
+        "title": "Supervised Readings",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY478H1",
+        "title": "Undergraduate Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "PHY479Y1",
+        "title": "Undergraduate Research Project",
+        "credits": 1.0
+    },
+    {
+        "code": "PHYA21H3",
+        "title": "Physics II for the Physical Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "PHYD01H3",
+        "title": "Research Project in Physics and Astrophysics",
+        "credits": 0.5
+    },
+    {
+        "code": "PHYD72H3",
+        "title": "Supervised Reading in Physics and Astrophysics",
+        "credits": 0.5
+    },
+    {
+        "code": "PLIC24H3",
+        "title": "First Language Acquisition",
+        "credits": 0.5
+    },
+    {
+        "code": "PLID01H3",
+        "title": "Independent Study in Psycholinguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "PLID02H3",
+        "title": "Independent Study in Psycholinguistics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL101H1",
+        "title": "The Real World of Politics: An Introduction",
+        "credits": 0.5
+    },
+    {
+        "code": "POL107H1",
+        "title": "What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly",
+        "credits": 0.5
+    },
+    {
+        "code": "POL111H5",
+        "title": "Canada in Comparative Perspective",
+        "credits": 0.5
+    },
+    {
+        "code": "POL112H5",
+        "title": "Democracy in Theory and Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "POL114H5",
+        "title": "Politics in a Global World",
+        "credits": 0.5
+    },
+    {
+        "code": "POL200Y1",
+        "title": "Political Theory: Visions of the Just/Good Society",
+        "credits": 1.0
+    },
+    {
+        "code": "POL201H1",
+        "title": "Politics of Development",
+        "credits": 0.5
+    },
+    {
+        "code": "POL208H1",
+        "title": "Introduction to International Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL209H5",
+        "title": "Introduction to International Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL210H5",
+        "title": "Contemporary Challenges in International Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL214H1",
+        "title": "Canadian Government",
+        "credits": 0.5
+    },
+    {
+        "code": "POL215H5",
+        "title": "Canadian Government",
+        "credits": 0.5
+    },
+    {
+        "code": "POL216H5",
+        "title": "Canadian Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL222H1",
+        "title": "Introduction to Quantitative Reasoning I (formerly POL 322H1)",
+        "credits": 0.5
+    },
+    {
+        "code": "POL232H1",
+        "title": "Introduction to Quantitative Reasoning II",
+        "credits": 0.5
+    },
+    {
+        "code": "POL243H5",
+        "title": "Research Methods for Political Science I",
+        "credits": 0.5
+    },
+    {
+        "code": "POL244H5",
+        "title": "Research Methods for Political Science II",
+        "credits": 0.5
+    },
+    {
+        "code": "POL299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "POL300Y0",
+        "title": "Topics in Comparative Politics",
+        "credits": 1.0
+    },
+    {
+        "code": "POL301H1",
+        "title": "Colonial Legacies and Post-Independence African Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL302H1",
+        "title": "Politics and Society in 20th Century China",
+        "credits": 0.5
+    },
+    {
+        "code": "POL302H5",
+        "title": "Topics in Comparative Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL311H5",
+        "title": "Military Power",
+        "credits": 0.5
+    },
+    {
+        "code": "POL312H5",
+        "title": "Managing Military Conflict",
+        "credits": 0.5
+    },
+    {
+        "code": "POL317H1",
+        "title": "Comparative Public Policy",
+        "credits": 0.5
+    },
+    {
+        "code": "POL317H5",
+        "title": "Comparative Public Policy and Administration",
+        "credits": 0.5
+    },
+    {
+        "code": "POL321H1",
+        "title": "Modern Political Thought: Progress Through History",
+        "credits": 0.5
+    },
+    {
+        "code": "POL326H1",
+        "title": "The Politics of U.S. Foreign Policy",
+        "credits": 0.5
+    },
+    {
+        "code": "POL340H1",
+        "title": "International Law: Foundations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL360H1",
+        "title": "Topics in Latin American Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL361H1",
+        "title": "Global Political Economy",
+        "credits": 0.5
+    },
+    {
+        "code": "POL377H1",
+        "title": "Topics in Comparative Politics I",
+        "credits": 0.5
+    },
+    {
+        "code": "POL379H1",
+        "title": "Topics in Comparative Politics III",
+        "credits": 0.5
+    },
+    {
+        "code": "POL380H1",
+        "title": "Topics in International Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL381H1",
+        "title": "Topics in Political Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "POL399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "POL403H5",
+        "title": "Topics in Political Science",
+        "credits": 0.5
+    },
+    {
+        "code": "POL417H1",
+        "title": "Politics of North-South Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL418H1",
+        "title": "Human Security and Intra-state Conflicts in the Global South",
+        "credits": 0.5
+    },
+    {
+        "code": "POL426H1",
+        "title": "Democracy and Dictatorship",
+        "credits": 0.5
+    },
+    {
+        "code": "POL431H1",
+        "title": "Dynamics of Political Change in Contemporary China",
+        "credits": 0.5
+    },
+    {
+        "code": "POL484H1",
+        "title": "Topics in Political Thought I",
+        "credits": 0.5
+    },
+    {
+        "code": "POL484H5",
+        "title": "Topics in Political Thought",
+        "credits": 0.5
+    },
+    {
+        "code": "POL486H1",
+        "title": "Topics in International Politics I",
+        "credits": 0.5
+    },
+    {
+        "code": "POL487H1",
+        "title": "Topics in International Politics II",
+        "credits": 0.5
+    },
+    {
+        "code": "POL487H5",
+        "title": "Topics in International Relations",
+        "credits": 0.5
+    },
+    {
+        "code": "POL490H5",
+        "title": "Topics in Canadian Politics",
+        "credits": 0.5
+    },
+    {
+        "code": "POL496H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "POL497H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "POL499H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "POL499Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "POLB56H3",
+        "title": "Canadian Politics and Government",
+        "credits": 0.5
+    },
+    {
+        "code": "POLB57H3",
+        "title": "The Canadian Constitution and the Charter of Rights",
+        "credits": 0.5
+    },
+    {
+        "code": "POLC65H3",
+        "title": "Political Strategy",
+        "credits": 0.5
+    },
+    {
+        "code": "POLD95H3",
+        "title": "Supervised Research",
+        "credits": 0.5
+    },
+    {
+        "code": "POLD98H3",
+        "title": "Supervised Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT101H0",
+        "title": "Portuguese for Beginners I",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT102H0",
+        "title": "Portuguese for Beginners II",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT201H0",
+        "title": "Intermediate Portuguese I",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT202H0",
+        "title": "Intermediate Portuguese II",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT301H0",
+        "title": "Advanced Portuguese I",
+        "credits": 0.5
+    },
+    {
+        "code": "PRT302H0",
+        "title": "Advanced Portuguese II",
+        "credits": 0.5
+    },
+    {
+        "code": "PSCB90H3",
+        "title": "Physical Sciences Research Experience",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSL300H1",
+        "title": "Human Physiology I",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL301H1",
+        "title": "Human Physiology II",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL378H0",
+        "title": "Field Physiology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL378H1",
+        "title": "Field Physiology: Marine Mammal Autopsy",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL379H0",
+        "title": "Comparative Marine Mammal Physiology in the Field",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL379H1",
+        "title": "Field Marine Physiol",
+        "credits": 0.5
+    },
+    {
+        "code": "PSL399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY100H1",
+        "title": "Introductory Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY100Y5",
+        "title": "Introductory Psychology",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY201H1",
+        "title": "Statistics I",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY201H5",
+        "title": "Introduction to Quantitative Research in Psychology I",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY202H1",
+        "title": "Statistics II",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY202H5",
+        "title": "Introduction to Quantitative Research in Psychology II",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY203H1",
+        "title": "Psychological Research",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY210H1",
+        "title": "Introduction to Developmental Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY210H5",
+        "title": "Introduction to Developmental Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY220H1",
+        "title": "Introduction to Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY220H5",
+        "title": "Introduction to Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY230H1",
+        "title": "Personality and Its Transformations",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY240H5",
+        "title": "Introduction to Abnormal Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY260H1",
+        "title": "Introduction to Learning and Plasticity",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY270H1",
+        "title": "Introduction to Cognitive Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY270H5",
+        "title": "Cognition: The Machinery of the Mind",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY280H1",
+        "title": "Introduction to Sensation and Perception",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY280H5",
+        "title": "Sensation and Perception: Where the World Meets the Brain",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY290H1",
+        "title": "Behavioural Neuroscience",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY290H5",
+        "title": "Introduction to Neuroscience",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY299H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY299Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY306Y0",
+        "title": "Special Topics in Psychology Abroad",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY309H5",
+        "title": "Experimental Design and Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY320H1",
+        "title": "Social Psychology: Attitudes",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY320H5",
+        "title": "Social Psychology: Attitudes",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY321H1",
+        "title": "Cross-Cultural Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY327H5",
+        "title": "Psychology of Intimate Relationships",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY328H1",
+        "title": "Psychology and the Law",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY328H5",
+        "title": "Psychology and the Law",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY333H1",
+        "title": "Health Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY336H1",
+        "title": "Positive Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY341H5",
+        "title": "Abnormal Psychology: Disorders of Children and Adolescents",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY343H1",
+        "title": "Theories of Psychopathology and Psychotherapy",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY343H5",
+        "title": "Theories of Psychotherapy",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY346H5",
+        "title": "Abnormal Psychology: Neuroscience Perspectives",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY372H1",
+        "title": "Human Memory",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY372H5",
+        "title": "Human Memory: The World within your Mind",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY396H1",
+        "title": "Neurochemical Basis of Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY397H5",
+        "title": "Neuroplasticity and Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY399Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY403H5",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY404H5",
+        "title": "Individual Project",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY405H1",
+        "title": "Individual Projects",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY405Y1",
+        "title": "Individual Projects",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY406H1",
+        "title": "Individual Projects",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY406Y1",
+        "title": "Individual Projects",
+        "credits": 1.0
+    },
+    {
+        "code": "PSY424H1",
+        "title": "Social Psychology of Interpersonal Relationships",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY493H1",
+        "title": "Cognitive Neuroscience",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY494H1",
+        "title": "Physiology and Psychology of Emotion",
+        "credits": 0.5
+    },
+    {
+        "code": "PSY499Y5",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "PSYA01H3",
+        "title": "Introduction to Biological and Cognitive Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYA02H3",
+        "title": "Introduction to Clinical, Developmental, Personality and Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB10H3",
+        "title": "Introduction to Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB20H3",
+        "title": "Introduction to Developmental Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB32H3",
+        "title": "Introduction to Clinical Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB51H3",
+        "title": "Introduction to Perception",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB55H3",
+        "title": "Introduction to Cognitive Neuroscience",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYB70H3",
+        "title": "Methods in Psychological Science",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC01H3",
+        "title": "History of Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC02H3",
+        "title": "Scientific Communication in Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC08H3",
+        "title": "Advanced Data Analysis in Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC13H3",
+        "title": "Social Cognition: Understanding Ourselves and Others",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC24H3",
+        "title": "Childhood and Adolescence",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC31H3",
+        "title": "Neuropsychological Assessment",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC36H3",
+        "title": "Psychotherapy",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC50H3",
+        "title": "Higher-Level Cognition",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC62H3",
+        "title": "Drugs and the Brain",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC70H3",
+        "title": "Advanced Research Methods Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYC71H3",
+        "title": "Social Psychology Laboratory",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYD15H3",
+        "title": "Current Topics in Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYD28H3",
+        "title": "The Development of Affective Cognition",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYD33H3",
+        "title": "Current Topics in Clinical Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYD50H3",
+        "title": "Current Topics in Memory and Cognition",
+        "credits": 0.5
+    },
+    {
+        "code": "PSYD66H3",
+        "title": "Current Topics in Human Brain and Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG100H1",
+        "title": "World Religions",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG200H1",
+        "title": "The Study of Religion",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG203H5",
+        "title": "Introduction to Christianity",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG210H5",
+        "title": "Introduction to Hinduism",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG232H1",
+        "title": "Religion and Film",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG233H1",
+        "title": "Religion and Popular Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG290Y0",
+        "title": "Special Topics",
+        "credits": 1.0
+    },
+    {
+        "code": "RLG301H5",
+        "title": "Stranger Things: Religious Objects in Theory and Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG313H1",
+        "title": "Love, Sex, Family",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG317H5",
+        "title": "Religion and Science",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG336H1",
+        "title": "Religion and its Monsters",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG352H5",
+        "title": "Jews and Muslims: The Medieval Encounter",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG398Y0",
+        "title": "Research Excursions",
+        "credits": 1.0
+    },
+    {
+        "code": "RLG411H5",
+        "title": "Advanced Topics in Religion, Media, and Culture",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG490Y1",
+        "title": "Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "RLG491H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG492H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG493H1",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "RLG499H5",
+        "title": "Independent Reading",
+        "credits": 0.5
+    },
+    {
+        "code": "ROP299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "RSM219H1",
+        "title": "Introduction to Financial Accounting",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM222H1",
+        "title": "Management Accounting I",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM260H1",
+        "title": "Organizational Behaviour",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM270H1",
+        "title": "Operations Management",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM326H1",
+        "title": "Data Analytics with Financial Accounting Information",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM332H1",
+        "title": "Capital Market Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM333H1",
+        "title": "Corporate Finance",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM392H1",
+        "title": "Strategic Management",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM430H1",
+        "title": "Fixed Income Securities",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM435H1",
+        "title": "Futures and Options Markets",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM470H1",
+        "title": "Management Science Modeling with Spreadsheets",
+        "credits": 0.5
+    },
+    {
+        "code": "RSM490H1",
+        "title": "International Strategy",
+        "credits": 0.5
+    },
+    {
+        "code": "SAH200H5",
+        "title": "Being Human in South Asia",
+        "credits": 0.5
+    },
+    {
+        "code": "SDS255H1",
+        "title": "History of Sexuality",
+        "credits": 0.5
+    },
+    {
+        "code": "SDS458H1",
+        "title": "Research Essay in Sexual Diversity",
+        "credits": 0.5
+    },
+    {
+        "code": "SMC380H1",
+        "title": "St. Michael's College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "SMC381Y1",
+        "title": "St. Michael's College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "SMC457H1",
+        "title": "Directed Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SMC480H1",
+        "title": "St. Michael's College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "SMC481Y1",
+        "title": "St. Michael's College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "SOC100H1",
+        "title": "Introduction to Sociology I: Sociological Perspectives",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC100H5",
+        "title": "Introduction to Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC109H5",
+        "title": "Introduction to Criminology, Law & Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC150H1",
+        "title": "Introduction to Sociology II: Sociological Inquiries",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC201H1",
+        "title": "Classical Sociological Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC202H1",
+        "title": "Introduction to Quantitative Methods in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC204H1",
+        "title": "Introduction to Qualitative Methods in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC206H5",
+        "title": "Introduction to the Sociology of Genocide",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC208H1",
+        "title": "Introduction to Social Policy",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC212H1",
+        "title": "Sociology of Crime & Deviance (formerly SOC212Y1)",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC228H5",
+        "title": "Introduction to Indigenous Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC240H1",
+        "title": "Sociology of Law",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC251H1",
+        "title": "Contemporary Sociological Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC254H1",
+        "title": "Intermediate Qualitative Methods in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC293H1",
+        "title": "New Topics in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC301H5",
+        "title": "Canadian Prisons",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC311H1",
+        "title": "Immigration and Race Relations in Canada",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC313H1",
+        "title": "Social Control (formerly SOC212Y1)",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC318H5",
+        "title": "Sociology of Mental Health and Mental Disorders",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC326H5",
+        "title": "Policing",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC330H5",
+        "title": "Criminology and Immigration",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC335H1",
+        "title": "Urban Health",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC336H5",
+        "title": "Special Topics in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC344H5",
+        "title": "Sociological Approaches to Social Psychology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC350H1",
+        "title": "New Topics in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC363H1",
+        "title": "Sociology of Mental Health and Mental Disorders",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC366H5",
+        "title": "Special Topics in Criminology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC367H1",
+        "title": "Race, Class, and Gender",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC369H5",
+        "title": "Digital Culture and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC390Y1",
+        "title": "Independent Research",
+        "credits": 1.0
+    },
+    {
+        "code": "SOC391H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC392H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC393Y0",
+        "title": "Selected Topics in Sociological Research",
+        "credits": 1.0
+    },
+    {
+        "code": "SOC394H5",
+        "title": "Independent Research in Criminology, Law and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC406H5",
+        "title": "Vigilantism on the Margins of the State",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC423H5",
+        "title": "Identity Crime",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC429H5",
+        "title": "Disability, Politics & Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC457H5",
+        "title": "Sociology of Race and Ethnicity",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC470H1",
+        "title": "Sociology of Martial Arts",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC490Y1",
+        "title": "Independent Research",
+        "credits": 1.0
+    },
+    {
+        "code": "SOC491H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC492H1",
+        "title": "Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC494H5",
+        "title": "Independent Research in Criminology, Law and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOC495H1",
+        "title": "New Topics in Sociology",
+        "credits": 0.5
+    },
+    {
+        "code": "SOCA05H3",
+        "title": "The Sociological Imagination",
+        "credits": 0.5
+    },
+    {
+        "code": "SOCB26H3",
+        "title": "Sociology of Education",
+        "credits": 0.5
+    },
+    {
+        "code": "SOCC45H3",
+        "title": "Youth and Society",
+        "credits": 0.5
+    },
+    {
+        "code": "SOCD40H3",
+        "title": "Supervised Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SOCD41H3",
+        "title": "Supervised Independent Research",
+        "credits": 0.5
+    },
+    {
+        "code": "SPA100Y5",
+        "title": "Spanish for Beginners",
+        "credits": 1.0
+    },
+    {
+        "code": "SPA101H1",
+        "title": "Spanish for Beginners I",
+        "credits": 0.5
+    },
+    {
+        "code": "SPA201H1",
+        "title": "Spanish for Intermediate Speakers I",
+        "credits": 0.5
+    },
+    {
+        "code": "SPA258H1",
+        "title": "Introduction to Hispanic Literary Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "SPA301H0",
+        "title": "Spanish for Advanced Speakers I",
+        "credits": 0.5
+    },
+    {
+        "code": "SPA302H0",
+        "title": "Spanish for Advanced Speakers II",
+        "credits": 0.5
+    },
+    {
+        "code": "STA107H5",
+        "title": "An Introduction to Probability and Modelling",
+        "credits": 0.5
+    },
+    {
+        "code": "STA220H1",
+        "title": "The Practice of Statistics I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA237H1",
+        "title": "Probability, Statistics and Data Analysis I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA238H1",
+        "title": "Probability, Statistics and Data Analysis II",
+        "credits": 0.5
+    },
+    {
+        "code": "STA255H1",
+        "title": "Statistical Theory",
+        "credits": 0.5
+    },
+    {
+        "code": "STA256H5",
+        "title": "Probability and Statistics I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA257H1",
+        "title": "Probability and Statistics I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA258H5",
+        "title": "Statistics with Applied Probability",
+        "credits": 0.5
+    },
+    {
+        "code": "STA260H5",
+        "title": "Probability and Statistics II",
+        "credits": 0.5
+    },
+    {
+        "code": "STA261H1",
+        "title": "Probability and Statistics II",
+        "credits": 0.5
+    },
+    {
+        "code": "STA299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "STA302H1",
+        "title": "Methods of Data Analysis I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA302H5",
+        "title": "Regression Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "STA303H1",
+        "title": "Methods of Data Analysis II",
+        "credits": 0.5
+    },
+    {
+        "code": "STA304H1",
+        "title": "Surveys, Sampling and Observational Data (formerly STA322H1)",
+        "credits": 0.5
+    },
+    {
+        "code": "STA304H5",
+        "title": "Surveys, Sampling and Observational Data",
+        "credits": 0.5
+    },
+    {
+        "code": "STA305H1",
+        "title": "Design and Analysis of Experiments",
+        "credits": 0.5
+    },
+    {
+        "code": "STA314H1",
+        "title": "Statistical Methods for Machine Learning I",
+        "credits": 0.5
+    },
+    {
+        "code": "STA360H5",
+        "title": "Introduction to Bayesian Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "STA378H5",
+        "title": "Statistics Research Project",
+        "credits": 0.5
+    },
+    {
+        "code": "STA399H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "STA457H1",
+        "title": "Time Series Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "STA496H1",
+        "title": "Readings in Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "STA497H1",
+        "title": "Readings in Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "STA499H5",
+        "title": "Research Opportunity Program",
+        "credits": 0.5
+    },
+    {
+        "code": "STAB22H3",
+        "title": "Statistics I",
+        "credits": 0.5
+    },
+    {
+        "code": "STAB23H3",
+        "title": "Introduction to Statistics for the Social Sciences",
+        "credits": 0.5
+    },
+    {
+        "code": "STAB52H3",
+        "title": "Introduction to Probability",
+        "credits": 0.5
+    },
+    {
+        "code": "STAC67H3",
+        "title": "Regression Analysis",
+        "credits": 0.5
+    },
+    {
+        "code": "STAD92H3",
+        "title": "Readings in Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "STAD93H3",
+        "title": "Readings in Statistics",
+        "credits": 0.5
+    },
+    {
+        "code": "STAD94H3",
+        "title": "Statistics Project",
+        "credits": 0.5
+    },
+    {
+        "code": "STAD95H3",
+        "title": "Statistics Project",
+        "credits": 0.5
+    },
+    {
+        "code": "TEP444H1",
+        "title": "Positive Psychology for Engineers",
+        "credits": 0.5
+    },
+    {
+        "code": "TRF005H0",
+        "title": "CIE - Outgoing Exch. Program",
+        "credits": 0.5
+    },
+    {
+        "code": "TRF010Y0",
+        "title": "CIE - Outgoing Exch. Program",
+        "credits": 1.0
+    },
+    {
+        "code": "TRF011Y0",
+        "title": "CIE - Outgoing Exch. Program",
+        "credits": 1.0
+    },
+    {
+        "code": "TRN299Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "TRN305Y1",
+        "title": "Basic Principles of Law",
+        "credits": 1.0
+    },
+    {
+        "code": "TRN399Y1",
+        "title": "Research Opportunity Program",
+        "credits": 1.0
+    },
+    {
+        "code": "TRN400H1",
+        "title": "Trinity Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "TRN405Y1",
+        "title": "Trinity Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "UNI393Y1",
+        "title": "University College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "UNI394H1",
+        "title": "University College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "UNI495Y1",
+        "title": "University College Independent Studies",
+        "credits": 1.0
+    },
+    {
+        "code": "UNI496H1",
+        "title": "University College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "URB435H1",
+        "title": "Independent Research in Urban Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "VCC392H5",
+        "title": "Topics in Visual Culture and Communication",
+        "credits": 0.5
+    },
+    {
+        "code": "VCC492H5",
+        "title": "Topics in Visual Culture and Communication",
+        "credits": 0.5
+    },
+    {
+        "code": "VIC296H1",
+        "title": "Internship Opportunity",
+        "credits": 0.5
+    },
+    {
+        "code": "VIC296Y1",
+        "title": "Internship Opportunity",
+        "credits": 1.0
+    },
+    {
+        "code": "VIC391H1",
+        "title": "Victoria College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "VIC396H0",
+        "title": "International Internship Opportunity",
+        "credits": 0.5
+    },
+    {
+        "code": "VIC491H1",
+        "title": "Victoria College Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS201H1",
+        "title": "Painting: Methods & Materials",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS204H1",
+        "title": "Installation Art I: Material and Sculptural Practices",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS209H1",
+        "title": "Contemporary Printing",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS218H1",
+        "title": "Photobased (Digital)",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS306H1",
+        "title": "Installation Art II: Contextual Practices",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS312H1",
+        "title": "Collage",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS319H1",
+        "title": "Defining Landscapes",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS323H1",
+        "title": "Painting: Contemporary Practice",
+        "credits": 0.5
+    },
+    {
+        "code": "VIS405H1",
+        "title": "Visual Studies Internship",
+        "credits": 0.5
+    },
+    {
+        "code": "VPAB16H3",
+        "title": "Managing and Leading in Cultural Organizations",
+        "credits": 0.5
+    },
+    {
+        "code": "VPAB17H3",
+        "title": "From Principles to Practices in Arts Management",
+        "credits": 0.5
+    },
+    {
+        "code": "VPAC16H3",
+        "title": "Contracts and Copyright",
+        "credits": 0.5
+    },
+    {
+        "code": "VPHB53H3",
+        "title": "Medieval Art",
+        "credits": 0.5
+    },
+    {
+        "code": "VPSB56H3",
+        "title": "Digital Fundamentals for Artists",
+        "credits": 0.5
+    },
+    {
+        "code": "VPSB61H3",
+        "title": "Painting from Life",
+        "credits": 0.5
+    },
+    {
+        "code": "VPSB74H3",
+        "title": "Observational Drawing",
+        "credits": 0.5
+    },
+    {
+        "code": "VPSC76H3",
+        "title": "The Documentary Image",
+        "credits": 0.5
+    },
+    {
+        "code": "VPSC93H3",
+        "title": "Theory and Practice: Art and the Everyday",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS101H5",
+        "title": "Introduction to Women and Gender Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS215H5",
+        "title": "Introduction to Women, Public Policy and the Law",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS273H1",
+        "title": "Gender & Environmental (In)Justice",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS337H5",
+        "title": "Special Topics in Women and Gender Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS351H5",
+        "title": "Gender, Race, and Surveillance",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS365H5",
+        "title": "Gender, Justice and the Law",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS369H1",
+        "title": "Studies in Post-Colonialism",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS370H1",
+        "title": "Utopian Visions, Activist Realities",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS373H1",
+        "title": "Gender and Violence",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS376H1",
+        "title": "Studies in Queer and Trans",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS397H1",
+        "title": "The Politics of Girlhood",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS410H5",
+        "title": "Independent Project in Study of Women & Gender",
+        "credits": 0.5
+    },
+    {
+        "code": "WGS411Y5",
+        "title": "Independent Project in Study of Women & Gender",
+        "credits": 1.0
+    },
+    {
+        "code": "WGS434H5",
+        "title": "Special Topics in Women & Gender Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI173H5",
+        "title": "Creative Non-Fiction",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI227H5",
+        "title": "Social Media and Content Creation",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI307H5",
+        "title": "Writing about Science",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI380H5",
+        "title": "Podcasting",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI390H5",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI391H5",
+        "title": "Independent Studies",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI410H5",
+        "title": "Professional Writing and Communication Internship 1",
+        "credits": 0.5
+    },
+    {
+        "code": "WRI488H5",
+        "title": "Food and Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "WRR103H1",
+        "title": "Introduction to Academic Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "WRR211H1",
+        "title": "Introduction to Creative Writing",
+        "credits": 0.5
+    },
+    {
+        "code": "WRR310H1",
+        "title": "Stylistic Editing and Copy Editing",
+        "credits": 0.5
+    },
+    {
+        "code": "WRR315H1",
+        "title": "Writing from Territory: Creative Writing in Fiction and Nonfiction",
+        "credits": 0.5
+    },
+    {
+        "code": "WRR407H1",
+        "title": "Independent Studies in Writing and Rhetoric",
+        "credits": 0.5
+    },
+    {
+        "code": "WSTB06H3",
+        "title": "Women in Diaspora",
+        "credits": 0.5
+    }
+]
