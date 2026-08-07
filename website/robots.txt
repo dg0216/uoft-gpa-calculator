@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uoft-gpa-calculator.vercel.app/sitemap.xml
