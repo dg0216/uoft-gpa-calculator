@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Calculate your University of Toronto GPA quickly and accurately.">
+    <meta name="description" content="Calculate your yearly and cumulative University of Toronto GPA using real UofT courses and grades.">
     <meta name="keywords" content="UofT GPA Calculator, University of Toronto GPA calculator, UofT grade calculator, ACORN GPA calculator, UofT cumulative GPA">
     <meta name="author" content="UofT GPA Calculator">
     <title>UofT GPA Calculator - Calculate Your University of Toronto GPA</title>
@@ -11,108 +11,133 @@
     <link rel="icon" href="favicon.ico">
 </head>
 <body>
-    <!-- Header Section -->
-    <header>
-        <h1>UofT GPA Calculator</h1>
-        <p>Calculate your University of Toronto GPA based on your courses, grades, and credit weights.</p>
-        <p>This tool helps students calculate their semester GPA using the UofT 4.0 grading scale.</p>
+    <header class="app-header">
+        <nav class="top-nav" aria-label="Primary navigation">
+            <a class="brand" href="#coursesSection" aria-label="UofT GPA Calculator home">
+                <span class="brand-mark" aria-hidden="true">U</span>
+                <span>UofT GPA Calculator</span>
+            </a>
+            <div class="nav-links">
+                <a class="nav-link active" href="#coursesSection">Courses</a>
+                <a class="nav-link" href="#gpaSummary">GPA</a>
+                <button type="button" id="themeToggle" class="icon-button" aria-label="Switch to light theme" aria-pressed="false">
+                    <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.6 5.6 7 7m10 10 1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z"/></svg>
+                </button>
+            </div>
+        </nav>
+
+        <div class="hero">
+            <p class="eyebrow">UNIVERSITY OF TORONTO · ACADEMIC TOOLKIT</p>
+            <h1>Plan your progress.<br><span>Know your GPA.</span></h1>
+            <p>Calculate yearly and cumulative University of Toronto GPA with real course data and automatic credit weights.</p>
+        </div>
     </header>
 
     <main>
-        <!-- GPA Input Section -->
-        <section aria-labelledby="course-input-heading">
-            <h2 id="course-input-heading">Add a Course</h2>
+        <div id="courseWorkspace">
+            <section id="coursesSection" class="panel course-panel" aria-labelledby="course-input-heading">
+                <div class="section-heading">
+                    <div>
+                        <p class="eyebrow">COURSES</p>
+                        <h2 id="course-input-heading">Build your academic record</h2>
+                    </div>
+                    <span class="status-dot">Saved locally</span>
+                </div>
 
-            <div>
-                <label for="academicYear">Academic Year</label>
-                <select id="academicYear" name="academicYear">
-                    <option value="" selected disabled>Select an academic year</option>
-                    <option value="1st Year">1st Year</option>
-                    <option value="2nd Year">2nd Year</option>
-                    <option value="3rd Year">3rd Year</option>
-                    <option value="4th Year">4th Year</option>
-                    <option value="Other">Other</option>
-                </select>
+                <div class="course-form">
+                    <div class="field-group">
+                        <label for="academicYear">Academic year</label>
+                        <select id="academicYear" name="academicYear">
+                            <option value="1st Year">1st Year</option>
+                            <option value="2nd Year">2nd Year</option>
+                            <option value="3rd Year">3rd Year</option>
+                            <option value="4th Year">4th Year</option>
+                            <option value="Other">Other</option>
+                        </select>
+                    </div>
+
+                    <div class="field-group course-search-container">
+                        <label for="courseName">Search UofT courses</label>
+                        <div class="input-with-icon">
+                            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6"/><path d="m16 16 4 4"/></svg>
+                            <input type="text" id="courseName" name="courseName" placeholder="Search by code or title" autocomplete="off">
+                        </div>
+                        <p id="selectedCourseInfo" class="selected-course-info" aria-live="polite"></p>
+                    </div>
+
+                    <div class="field-group grade-input-container">
+                        <label for="grade">Final grade (%)</label>
+                        <input type="number" id="grade" name="grade" placeholder="e.g. 85" min="0" max="100" step="0.1" inputmode="decimal">
+                        <p id="gradePreview" class="grade-preview" aria-live="polite"></p>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="button" id="addCourseButton" class="button button-secondary">
+                        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 5v14m-7-7h14"/></svg>Add course
+                    </button>
+                    <button type="button" id="calculateGPAButton" class="button button-primary">
+                        Calculate GPA
+                        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>
+                    </button>
+                </div>
+                <p id="errorMessage" role="alert" aria-live="polite"></p>
+            </section>
+
+            <section id="courseListSection" class="panel course-list-panel" aria-labelledby="course-list-heading">
+                <div class="section-heading">
+                    <div>
+                        <p class="eyebrow">ACADEMIC RECORD</p>
+                        <h2 id="course-list-heading">Your courses</h2>
+                    </div>
+                    <span id="courseCount" class="course-count">0 courses</span>
+                </div>
+                <div id="courseTableBody" class="course-groups" aria-live="polite"></div>
+            </section>
+        </div>
+
+        <section id="gpaSummary" class="panel gpa-dashboard hidden" aria-labelledby="gpa-heading">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">GPA ANALYTICS</p>
+                    <h2 id="gpa-heading">Your academic snapshot</h2>
+                </div>
+                <span id="summaryMeta" class="course-count"></span>
             </div>
 
-            <div class="course-search-container">
-                <label for="courseName">Course Name</label>
-                <input
-                    type="text"
-                    id="courseName"
-                    name="courseName"
-                    placeholder="Example: MAT137"
-                >
+            <div class="gpa-overview">
+                <div class="gpa-meter" aria-label="Cumulative GPA meter out of 4.0">
+                    <svg viewBox="0 0 120 120" aria-hidden="true">
+                        <circle class="meter-track" cx="60" cy="60" r="54"/>
+                        <circle id="gpaMeterProgress" class="meter-progress" cx="60" cy="60" r="54"/>
+                    </svg>
+                    <div class="meter-label"><span id="gpaResult">0.00</span><small>/ 4.00</small></div>
+                </div>
+                <div class="gpa-copy">
+                    <p class="eyebrow">CUMULATIVE GPA</p>
+                    <h3>Progress with clarity.</h3>
+                    <p>Your weighted result across every course and academic year entered.</p>
+                </div>
             </div>
 
-            <div class="grade-input-container">
-                <label for="grade">Final Grade (%)</label>
-                <input
-                    type="number"
-                    id="grade"
-                    name="grade"
-                    placeholder="Enter grade (%)"
-                    min="0"
-                    max="100"
-                    step="0.1"
-                    inputmode="decimal"
-                >
-                <p id="gradePreview" class="grade-preview" aria-live="polite"></p>
+            <div id="yearGpaSummary" class="year-gpa-grid" aria-live="polite"></div>
+            <div class="result-actions">
+                <button type="button" id="toggleCoursesButton" class="button button-secondary">Edit courses</button>
             </div>
-
-            <div>
-                <button type="button" id="addCourseButton">Add Course</button>
-                <button type="button" id="calculateGPAButton">Calculate GPA</button>
-            </div>
-
-            <p id="errorMessage" role="alert" aria-live="polite"></p>
         </section>
 
-        <!-- Course Table Section -->
-        <div id="courseListSection" class="course-list-container">
-            <section aria-labelledby="course-list-heading">
-                <h2 id="course-list-heading">Courses by Academic Year</h2>
-
-                <table id="courseTable">
-                    <thead>
-                        <tr>
-                            <th scope="col">Course</th>
-                            <th scope="col">Title</th>
-                            <th scope="col">Grade</th>
-                            <th scope="col">Credits</th>
-                            <th scope="col">GPA Value</th>
-                            <th scope="col">Action</th>
-                        </tr>
-                    </thead>
-                    <tbody id="courseTableBody">
-                        <!-- Course rows are added by JavaScript. -->
-                    </tbody>
-                </table>
-            </section>
-        </div>
-
-        <!-- GPA Result Section -->
-        <div id="gpaSummary" class="hidden">
-            <section aria-labelledby="gpa-heading">
-                <h2 id="gpa-heading">GPA Summary</h2>
-                <div id="yearGpaSummary" aria-live="polite"></div>
-                <h3>Cumulative GPA</h3>
-                <p id="gpaResult" aria-live="polite">0.00</p>
-            </section>
-        </div>
-
-        <div class="gpa-action">
-            <button type="button" id="toggleCoursesButton" class="hidden">Hide Courses</button>
-        </div>
-
-        <div class="reset-action">
-            <button type="button" id="resetButton">Reset Calculator</button>
-        </div>
+        <section class="settings-panel" aria-labelledby="settings-heading">
+            <div>
+                <p class="eyebrow">SETTINGS</p>
+                <h2 id="settings-heading">Start fresh when you need to</h2>
+                <p>Courses are saved on this device. Resetting only clears this calculator’s saved data.</p>
+            </div>
+            <button type="button" id="resetButton" class="button button-quiet">Reset calculator</button>
+        </section>
     </main>
 
-    <!-- Footer Section -->
     <footer>
-        <p>Built as a student project to help UofT students calculate GPA.</p>
+        <p>Built for University of Toronto students. Course data is used for search and credit weights.</p>
     </footer>
 
     <script src="js/script.js"></script>
