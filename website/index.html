@@ -3,10 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Calculate your yearly and cumulative University of Toronto GPA using real UofT courses and grades.">
+    <meta name="description" content="Calculate your University of Toronto GPA using UofT courses, percentage grades, and credit weights. Calculate yearly and cumulative GPA accurately.">
     <meta name="keywords" content="UofT GPA Calculator, University of Toronto GPA calculator, UofT grade calculator, ACORN GPA calculator, UofT cumulative GPA">
     <meta name="author" content="UofT GPA Calculator">
-    <title>UofT GPA Calculator - Calculate Your University of Toronto GPA</title>
+    <title>UofT GPA Calculator – University of Toronto GPA Calculator</title>
+    <link rel="canonical" href="https://uoft-gpa-calculator.vercel.app/">
+    <meta property="og:title" content="UofT GPA Calculator – University of Toronto GPA Calculator">
+    <meta property="og:description" content="Calculate your University of Toronto GPA using UofT courses, grades, and credit weights.">
+    <meta property="og:url" content="https://uoft-gpa-calculator.vercel.app/">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="UofT GPA Calculator – University of Toronto GPA Calculator">
+    <meta name="twitter:description" content="Calculate your University of Toronto GPA using UofT courses, grades, and credit weights.">
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" href="favicon.ico">
 </head>
@@ -20,6 +28,8 @@
             <div class="nav-links">
                 <a class="nav-link active" href="#coursesSection">Courses</a>
                 <a class="nav-link" href="#gpaSummary">GPA</a>
+                <a class="nav-link" href="#how-it-works">How it works</a>
+                <a class="nav-link" href="#faq">FAQ</a>
                 <button type="button" id="themeToggle" class="icon-button" aria-label="Switch to light theme" aria-pressed="false">
                     <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.6 5.6 7 7m10 10 1.4 1.4M18.4 5.6 17 7M7 17l-1.4 1.4M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z"/></svg>
                 </button>
@@ -28,8 +38,9 @@
 
         <div class="hero">
             <p class="eyebrow">UNIVERSITY OF TORONTO · ACADEMIC TOOLKIT</p>
-            <h1>Plan your progress.<br><span>Know your GPA.</span></h1>
-            <p>Calculate yearly and cumulative University of Toronto GPA with real course data and automatic credit weights.</p>
+            <h1>UofT GPA Calculator</h1>
+            <p class="hero-tagline">Plan your progress. <span>Know your GPA.</span></p>
+            <p>Calculate your University of Toronto GPA using UofT courses, percentage grades, and credit weights. Organize courses by year for yearly and cumulative results.</p>
         </div>
     </header>
 
@@ -134,6 +145,42 @@
             </div>
             <button type="button" id="resetButton" class="button button-quiet">Reset calculator</button>
         </section>
+
+        <section id="how-it-works" class="information-panel" aria-labelledby="how-it-works-heading">
+            <p class="eyebrow">HOW IT WORKS</p>
+            <h2 id="how-it-works-heading">How to Calculate Your UofT GPA</h2>
+            <p>Search for a UofT course, choose the academic year it belongs to, and enter your percentage grade. The calculator uses the selected course’s credit weight to calculate yearly and cumulative GPA.</p>
+            <div class="info-grid">
+                <article><h3>Add your courses</h3><p>Search the included UofT course database instead of typing course details manually.</p></article>
+                <article><h3>Enter percentage grades</h3><p>Percentage grades are converted to the calculator’s GPA value before results are calculated.</p></article>
+                <article><h3>Review your results</h3><p>See GPA by academic year as well as an overall cumulative GPA.</p></article>
+            </div>
+        </section>
+
+        <section class="information-panel" aria-labelledby="credits-heading">
+            <p class="eyebrow">WEIGHTED CALCULATION</p>
+            <h2 id="credits-heading">How Course Credits Affect Your GPA</h2>
+            <p>GPA is weighted by course credit value. A course with a larger credit weight contributes more to the overall result than a course with a smaller credit weight. This calculator reads the credit weight associated with the course you select, so you do not need to enter it manually.</p>
+        </section>
+
+        <section class="information-panel" aria-labelledby="years-heading">
+            <p class="eyebrow">ORGANIZE YOUR RECORD</p>
+            <h2 id="years-heading">Yearly and Cumulative GPA</h2>
+            <p>Organize courses into 1st Year, 2nd Year, 3rd Year, 4th Year, or Other. The GPA dashboard calculates each populated year separately and combines all entered courses for your cumulative GPA.</p>
+        </section>
+
+        <section id="faq" class="information-panel faq-panel" aria-labelledby="faq-heading">
+            <p class="eyebrow">FAQ</p>
+            <h2 id="faq-heading">Frequently Asked Questions</h2>
+            <div class="faq-list">
+                <details><summary>How do I calculate my UofT GPA?</summary><p>Add a valid UofT course, select its academic year, enter a percentage grade, and choose Calculate GPA.</p></details>
+                <details><summary>Can I calculate my cumulative UofT GPA?</summary><p>Yes. The GPA dashboard combines all courses you enter into a credit-weighted cumulative GPA.</p></details>
+                <details><summary>Can I calculate GPA for multiple years?</summary><p>Yes. Courses can be organized into 1st Year, 2nd Year, 3rd Year, 4th Year, and Other, with a GPA shown for each populated year.</p></details>
+                <details><summary>Do I need to enter course credits manually?</summary><p>No. The calculator uses the credit weight attached to the selected course in its course database.</p></details>
+                <details><summary>Can I use percentage grades?</summary><p>Yes. Enter a percentage from 0 to 100 and the calculator converts it to a letter grade and GPA value for the calculation.</p></details>
+                <details><summary>Does the calculator contain UofT courses?</summary><p>Yes. Course search uses the included UofT course database to validate course selections and retrieve credit weights.</p></details>
+            </div>
+        </section>
     </main>
 
     <footer>
@@ -141,5 +188,18 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"WebApplication","name":"UofT GPA Calculator","description":"University of Toronto GPA calculator for calculating yearly and cumulative GPA using courses, percentage grades, and credit weights.","applicationCategory":"EducationalApplication","operatingSystem":"Web","url":"https://uoft-gpa-calculator.vercel.app/"}
+    </script>
+    <script type="application/ld+json">
+    {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+        {"@type":"Question","name":"How do I calculate my UofT GPA?","acceptedAnswer":{"@type":"Answer","text":"Add a valid UofT course, select its academic year, enter a percentage grade, and choose Calculate GPA."}},
+        {"@type":"Question","name":"Can I calculate my cumulative UofT GPA?","acceptedAnswer":{"@type":"Answer","text":"Yes. The GPA dashboard combines all courses you enter into a credit-weighted cumulative GPA."}},
+        {"@type":"Question","name":"Can I calculate GPA for multiple years?","acceptedAnswer":{"@type":"Answer","text":"Yes. Courses can be organized into 1st Year, 2nd Year, 3rd Year, 4th Year, and Other, with a GPA shown for each populated year."}},
+        {"@type":"Question","name":"Do I need to enter course credits manually?","acceptedAnswer":{"@type":"Answer","text":"No. The calculator uses the credit weight attached to the selected course in its course database."}},
+        {"@type":"Question","name":"Can I use percentage grades?","acceptedAnswer":{"@type":"Answer","text":"Yes. Enter a percentage from 0 to 100 and the calculator converts it to a letter grade and GPA value for the calculation."}},
+        {"@type":"Question","name":"Does the calculator contain UofT courses?","acceptedAnswer":{"@type":"Answer","text":"Yes. Course search uses the included UofT course database to validate course selections and retrieve credit weights."}}
+    ]}
+    </script>
 </body>
 </html>
